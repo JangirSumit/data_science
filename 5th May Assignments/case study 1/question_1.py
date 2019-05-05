@@ -3,22 +3,25 @@
 print("Enter a number")
 number = int(input(">>> "))
 
-all_factors = []
-list = []
-factor = 2
-copy_number = number
+################################ Prime Factors ####################################
 
-while factor != number:
-    if copy_number % factor == 0:
-        list.append(str(factor))
-        copy_number /= factor
-    else:
-        factor += 1
+# list = []
+# factor = 2
+# copy_number = number
 
-print("Prime factrors are :  " + " * ".join(list))
+# while factor != number:
+#     if copy_number % factor == 0:
+#         list.append(str(factor))
+#         copy_number /= factor
+#     else:
+#         factor += 1
 
+# print("Prime factrors are :  " + " * ".join(list))
+
+print("All factors of number is\n")
 for num in range(1, number + 1):
     if number % num == 0:
-        all_factors.append(str(num))
-
-print("All factrors are :  " + " , ".join(all_factors))
+        if num % 2 == 0:
+            print(f"{num} - even")
+        else:
+            print(f"{num} - odd")
