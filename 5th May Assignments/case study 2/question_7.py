@@ -21,4 +21,4 @@ for s in string:
     
 
 for key in string_occ.keys():
-    print("{},{}".format(key, string_occ[key]))
+    print(f"{key},{string_occ[key]}")

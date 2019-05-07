@@ -8,7 +8,6 @@ setA = set(listA)
 setB = set(listB)
 
 insersaction_of_AB = setA.intersection(setB) #A&B
-
 listA_insersact_B = list(insersaction_of_AB)
 
 print(listA_insersact_B)
