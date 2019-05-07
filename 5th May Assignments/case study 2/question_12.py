@@ -6,10 +6,10 @@
 # 3.55
 
 print("Enter a number")
-number = input(">>> ")
+number = int(input(">>> "))
 
-total = 0
+total = 0.0
 for num in range(1, number+1):
-    total += float(num)/(num+1)
+    total += (num)/(num+1)
 
 print(total)
