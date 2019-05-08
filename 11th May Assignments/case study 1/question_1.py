@@ -17,13 +17,13 @@ Y = 0
 def get_coordinates(string):
     global X
     global Y
-    if string[0] == "UP":
+    if string[0].upper() == "UP":
         Y += int(string[1])
-    elif string[0] == "DOWN":
+    elif string[0].upper() == "DOWN":
         Y -= int(string[1])
-    elif string[0] == "LEFT":
+    elif string[0].upper() == "LEFT":
         X -= int(string[1])
-    elif string[0] == "RIGHT":
+    elif string[0].upper() == "RIGHT":
         X += int(string[1])
 
 
