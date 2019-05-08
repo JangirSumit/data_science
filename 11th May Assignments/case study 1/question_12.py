@@ -5,3 +5,12 @@
 # hello world and practice makes perfect and hello world again
 # Then, the output should be:
 # again and hello makes perfect practice world
+
+print("Enter string")
+string = input(">>> ")
+
+string_list = string.split(" ")
+unique_words = list(set(string_list))
+unique_words.sort()
+
+print(" ".join(unique_words))

@@ -5,3 +5,14 @@
 # 0100,0011,1010,1001
 # Then the output should be:
 # 1010
+
+print("Enter comma seperated Binary numbers")
+string = input(">>> ")
+
+binary_list = string.split(",")
+result_list = [bin_number for bin_number in binary_list if int(
+    bin_number, 2) % 5 == 0]
+
+result = ",".join(result_list)
+
+print(result)
