@@ -18,7 +18,6 @@ string_occ = {}
 for s in string:
     if s not in string_occ.keys():
         string_occ[s] = string.count(s)
-    
 
 for key in string_occ.keys():
     print(f"{key},{string_occ[key]}")
