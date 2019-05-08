@@ -79,7 +79,7 @@ while True:
             print("Enter existing reference id")
             decode_ref = input(">>> ")
 
-            print("Reference id after decoding : " + decode(decode_ref))
+            print("Reference id after decoding : " + decode(def_key,decode_ref))
             continue
         elif user_input == "3":
             break
