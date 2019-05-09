@@ -5,3 +5,19 @@
 # 3,5
 # Then, the output of the program should be:
 # [[0, 0, 0, 0, 0], [0, 1, 2, 3, 4], [0, 2, 4, 6, 8]] 
+
+print("Enter the X,Y")
+XY = input(">>> ").split(",")
+
+list_array = []
+
+X = int(XY[0].strip())
+Y = int(XY[1].strip())
+
+for x in range(X):
+    list_temp = []
+    for y in range(Y):
+        list_temp.append(y*x)
+    list_array.append(list_temp)
+
+print(list_array)
