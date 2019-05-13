@@ -1,3 +1,4 @@
+import Order
 import CustomerNotAllowedException
 
 class Customer:
@@ -7,6 +8,10 @@ class Customer:
         self.isblacklisted = isblacklisted
         
     
-    def createOrder(self):
+    def createOrder(self, productname, productcode):
         if self.isblacklisted:
             raise CustomerNotAllowedException("Customer is not allowed to create the order because it is blacklisted.")
+
+        order = Order(productname, productcode)
+
+        return order

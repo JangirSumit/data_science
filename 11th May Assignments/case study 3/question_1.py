@@ -1,4 +1,4 @@
-from customer import Customer
+import Customer
 import csv
 import re
 
@@ -17,7 +17,5 @@ for data in fullname_data:
     customerList.append(Customer(productname = data[0].strip(), customername = data[1].strip(), isblacklisted = bool(data[2].strip())))
 
 # Check whether the customer is allowed to create the order or not?
-
 customer = Customer(productname = "XYZ", customername = "Sumit Jangir", isblacklisted = True)
-
 customer.createOrder()
