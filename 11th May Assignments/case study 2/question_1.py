@@ -28,6 +28,7 @@ print(unique_jobs)
 print("****** Bank of Portugal Portal *******")
 print("Check your eligibility for loan")
 
+# While loop to check profession without ending except user ends
 while True:
     user_input = input("Enter END/end to quit else continue>>> ")
 
