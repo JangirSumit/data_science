@@ -2,10 +2,11 @@
 
 import numpy as np
 
-my_data = np.genfromtxt('SalaryGender.csv', delimiter=',', skip_header=1)
+csv_data = np.genfromtxt('SalaryGender.csv', delimiter=',', skip_header=1)
 
-salary = csv_data[0:,0]
-gender = csv_data[0:,1]
-age = csv_data[0:,2]
-phd = csv_data[0:,3]
+salary = csv_data[0:, 0]
+gender = csv_data[0:, 1]
+age = csv_data[0:, 2]
+phd = csv_data[0:, 3]
+
 print(phd)

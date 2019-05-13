@@ -2,7 +2,7 @@
 
 import numpy as np
 
-my_data = np.genfromtxt('SalaryGender.csv', delimiter=',', skip_header=1)
+csv_data = np.genfromtxt('SalaryGender.csv', delimiter=',', skip_header=1)
 
 people_age_phd = [data[2:] for data in csv_data]
 
