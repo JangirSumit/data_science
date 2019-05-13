@@ -8,4 +8,6 @@ people_age_phd = [data[2:] for data in csv_data]
 
 print(people_age_phd)
 
+print()
+
 print("Total number of people who have a PhD degree " + str(len(people_phd)))
