@@ -1,13 +1,10 @@
 # 4. Calculate the total number of people who have a PhD degreefrom SalaryGender CSV file.
 
-import numpy as np
+import pandas as pd
 
-csv_data = np.genfromtxt('SalaryGender.csv', delimiter=',', skip_header=1)
+csv_data = pd.read_csv('SalaryGender.csv')
 
-people_age_phd = [data[2:] for data in csv_data]
+# filter data from rows
+people_phd = csv_data.query("PhD == 1")
 
-print(people_age_phd)
-
-print()
-
-print("Total number of people who have a PhD degree " + str(len(people_phd)))
+print("Total number of people with PhD degree" + str(people_phd))

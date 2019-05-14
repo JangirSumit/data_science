@@ -2,3 +2,9 @@ https://www.geeksforgeeks.org/python-replace-negative-value-with-zero-in-numpy-a
 
 
 https://www.geeksforgeeks.org/python-filter-out-integers-from-float-numpy-array/
+
+https://www.geeksforgeeks.org/get-n-smallest-values-from-a-particular-column-in-pandas-dataframe/
+
+
+#############################################
+https://pythonspot.com/pandas-filter/

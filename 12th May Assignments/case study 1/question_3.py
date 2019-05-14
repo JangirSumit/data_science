@@ -3,12 +3,17 @@
 
 # https://medium.com/dunder-data/selecting-subsets-of-data-in-pandas-6fcd0170be9c
 
-# 4. Calculate the total number of people who have a PhD degreefrom SalaryGender CSV file.
+# 3. Use SalaryGender CSV file. Store the “Age” and “PhD” columns in one DataFrame and delete the data of all people who don’t have a PhD
 
-import numpy as np
+import pandas as pd
 
-csv_data = np.genfromtxt('SalaryGender.csv', delimiter=',', skip_header=1)
+csv_data = pd.read_csv('SalaryGender.csv')
 
-people_phd = [data[2:3] for data in csv_data]
+# filter columns
+age_phd = csv_data.filter(["Age", "PhD"])
 
-print("Total number of people who have a PhD degree " + str(len(people_phd)))
+# filter data from rows
+people_age_phd = age_phd.query("PhD == 1")
+# people_phd = csv_data[(csv_data.PhD == 1)] # another way
+
+print(people_age_phd)
