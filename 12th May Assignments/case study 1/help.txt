@@ -1,0 +1,4 @@
+https://www.geeksforgeeks.org/python-replace-negative-value-with-zero-in-numpy-array/
+
+
+https://www.geeksforgeeks.org/python-filter-out-integers-from-float-numpy-array/
