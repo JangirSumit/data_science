@@ -1,4 +1,4 @@
-# 1.Find the highest rated movie in the“Quest” story type.
+# 1. Find the highest rated movie in the“Quest” story type.
 
 import pandas as pd
 
