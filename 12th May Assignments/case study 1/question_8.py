@@ -1,14 +1,10 @@
 # 8. Create  a  10x10  array  with  random  values  and  find  the  minimum  and  maximum values.
 
-import random
 import numpy as np
 
-list = []
+np_array = np.random.random((10, 10))
 
-for _ in range(100):
-    list.append(random.randint(1,1000))
+print(np_array)
 
-np_array = np.array(list)
-
-print("Max value " + str(max(np_array)))
-print("Min value " + str(min(np_array)))
+print("Max value " + str(np_array.max()))
+print("Min value " + str(np_array.min()))
