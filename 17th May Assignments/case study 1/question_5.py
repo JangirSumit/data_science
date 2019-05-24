@@ -29,22 +29,31 @@ df = pd.DataFrame({'first_name': ['Jason', 'Molly', 'Tina', 'Jake', 'Amy'],
 
 # 5.2
 df.to_csv("example.csv")
+print("*"*20)
 
 # 5.3
 df = pd.read_csv("example.csv")
 print(df)
+print("*"*20)
 
 # 5.4
-df = pd.read_csv("example.csv", header=None)
-print(df)
+df_without_header = pd.read_csv("example.csv", header=None)
+print(df_without_header)
+print("*"*20)
 
 # 5.5
-df = pd.read_csv("example.csv", index_col=["first_name", "last_name"])
-df
+df_with_index = pd.read_csv("example.csv", index_col=["first_name", "last_name"])
+print(df_with_index)
+print("*"*20)
 
 # 5.6
-
+boolean_df = df.isnull().any()
+print(boolean_df)
+print("*"*20)
 
 # 5.7
-df = pd.read_csv("example.csv", skiprows=3)
-df
+df_skip_rows = pd.read_csv("example.csv", skiprows=3)
+print(df_skip_rows)
+print("*"*20)
+
+# 5.8
