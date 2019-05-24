@@ -35,3 +35,15 @@ print(str(float(grouped_df_overTime["OvertimePay"])) + " money could have been s
 #################################################################
 
 # 4. Which are the top 5 common job in Year 2014 and how much do they cost SFO ?
+
+grouped_df_5_common = df.groupby(["Year", "JobTitle"]).agg("sum").filter(["Year", "TotalPay", "JobTitle"]).query("Year == 2014").sort_values("TotalPay", ascending=False)
+
+print(grouped_df_5_common.head(5))
+
+#################################################################
+
+# 5. Who was the top earning employee across all the years?
+
+grouped_df_5_top_earners = df.groupby(["Year", "TotalPay"]).agg("max").filter(["Year", "TotalPay", "EmployeeName"])
+
+print(grouped_df_5_top_earners.head())
