@@ -26,8 +26,9 @@ import pandas as pd
 import numpy as np
 import re
 
-# 6.1 
-series_1 = pd.Series(['Amit', 'Bob', 'Kate', 'A', 'b', np.nan, 'Car', 'dog', 'cat'])
+# 6.1
+series_1 = pd.Series(['Amit', 'Bob', 'Kate', 'A', 'b',
+                      np.nan, 'Car', 'dog', 'cat'])
 print(series_1)
 
 # a) Print all elements in lower case
@@ -43,7 +44,7 @@ print(len(series_1))
 
 #################################################################
 
-# 6.2 
+# 6.2
 series_2 = pd.Series([' Atul', 'John ', ' jack ', 'Sam'])
 print(series_2)
 
@@ -62,7 +63,8 @@ print(series_rstripped)
 #################################################################
 
 # 6.3
-series_3 = pd.Series(['India_is_big', 'Population_is_huge', np.nan, 'Has_diverse_culture'])
+series_3 = pd.Series(
+    ['India_is_big', 'Population_is_huge', np.nan, 'Has_diverse_culture'])
 print(series_3)
 
 # a) split the individual strings wherever ‘_’ comes and create a list out of it.
@@ -84,10 +86,12 @@ print(flatten_list)
 
 # 6.4: Create a series and replace either X or dog with XX-XX
 # 'A', 'B', 'C', 'AabX', 'BacX','', np.nan, 'CABA', 'dog', 'cat'
-series_4 = pd.Series(['A', 'B', 'C', 'AabX', 'BacX','', np.nan, 'CABA', 'dog', 'cat'])
+series_4 = pd.Series(['A', 'B', 'C', 'AabX', 'BacX',
+                      '', np.nan, 'CABA', 'dog', 'cat'])
 print(series_4)
 
-series_replace_X = [str(ele).replace("X", "XX-XX").replace("dog", "XX-XX") for ele in series_4]
+series_replace_X = [str(ele).replace(
+    "X", "XX-XX").replace("dog", "XX-XX") for ele in series_4]
 print(series_replace_X)
 
 #################################################################
@@ -96,7 +100,7 @@ print(series_replace_X)
 series_5 = pd.Series(['12', '-$10', '$10,000'])
 print(series_5)
 
-series_remove_dollar = [str(ele).replace("$","") for ele in series_5]
+series_remove_dollar = [str(ele).replace("$", "") for ele in series_5]
 print(series_remove_dollar)
 
 
@@ -122,7 +126,8 @@ print(series_aplha_check)
 
 # 6.8: Create pandas series and print true if value is containing ‘A’
 # '1', '2', '1a', '2b', 'America', 'VietnAm','vietnam', '2003c'
-series_8 = pd.Series(['1', '2', '1a', '2b', 'America', 'VietnAm','vietnam', '2003c'])
+series_8 = pd.Series(['1', '2', '1a', '2b', 'America',
+                      'VietnAm', 'vietnam', '2003c'])
 print(series_8)
 
 series_true_if_contains_A = ["A" in str(ele) for ele in series_8]
@@ -134,7 +139,8 @@ print(series_true_if_contains_A)
 series_9 = pd.Series(['a', 'a|b', np.nan, 'a|c'])
 print(series_9)
 
-series_a_b_c_exists = [1 if re.match("[abc]", str(ele)) else 0 for ele in series_9]
+series_a_b_c_exists = [1 if re.match(
+    "[abc]", str(ele)) else 0 for ele in series_9]
 print(series_a_b_c_exists)
 
 #################################################################

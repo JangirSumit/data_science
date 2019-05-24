@@ -42,7 +42,8 @@ print(df_without_header)
 print("*"*20)
 
 # 5.5
-df_with_index = pd.read_csv("example.csv", index_col=["first_name", "last_name"])
+df_with_index = pd.read_csv("example.csv", index_col=[
+                            "first_name", "last_name"])
 print(df_with_index)
 print("*"*20)
 

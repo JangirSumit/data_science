@@ -14,7 +14,8 @@ plt.xlabel("Genre")
 plt.ylabel("Number of movies")
 plt.title("Genre vs Number of Movies")
 
-plt.setp(plt.gca().get_xticklabels(), rotation=90, horizontalalignment='right') # Rotate Axis Labels
+plt.setp(plt.gca().get_xticklabels(), rotation=90,
+         horizontalalignment='right')  # Rotate Axis Labels
 
 plt.grid()
 plt.show()
