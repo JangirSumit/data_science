@@ -24,6 +24,7 @@
 
 import pandas as pd
 import numpy as np
+import re
 
 # 6.1 
 series_1 = pd.Series(['Amit', 'Bob', 'Kate', 'A', 'b', np.nan, 'Car', 'dog', 'cat'])
@@ -126,3 +127,24 @@ print(series_8)
 
 series_true_if_contains_A = ["A" in str(ele) for ele in series_8]
 print(series_true_if_contains_A)
+
+#################################################################
+
+# 6.9: Create pandas series and print in three columns value 0 or 1 is a or b or c exists in values 'a', 'a|b', np.nan, 'a|c'
+series_9 = pd.Series(['a', 'a|b', np.nan, 'a|c'])
+print(series_9)
+
+series_a_b_c_exists = [1 if re.match("[abc]", str(ele)) else 0 for ele in series_9]
+print(series_a_b_c_exists)
+
+#################################################################
+
+# 6.10: Create pandas dataframe having keys and ltable and rtable as below - 'key': ['One', 'Two'], 'ltable': [1, 2] 'key': ['One', 'Two'], 'rtable': [4, 5] Merge both the tables based of key
+df1 = pd.DataFrame({'key': ['One', 'Two'], 'ltable': [1, 2]})
+df2 = pd.DataFrame({'key': ['One', 'Two'], 'rtable': [4, 5]})
+
+print(df1)
+print(df2)
+
+df_merge = pd.merge(df1, df2, sort=True)
+print(df_merge)
