@@ -78,3 +78,51 @@ for sublist in list_splited:
 
 # c) Expand the elements so that all individual elements get splitted by ‘_’ and insted of list returns individual elements
 print(flatten_list)
+
+#################################################################
+
+# 6.4: Create a series and replace either X or dog with XX-XX
+# 'A', 'B', 'C', 'AabX', 'BacX','', np.nan, 'CABA', 'dog', 'cat'
+series_4 = pd.Series(['A', 'B', 'C', 'AabX', 'BacX','', np.nan, 'CABA', 'dog', 'cat'])
+print(series_4)
+
+series_replace_X = [str(ele).replace("X", "XX-XX").replace("dog", "XX-XX") for ele in series_4]
+print(series_replace_X)
+
+#################################################################
+
+# 6.5: Create a series and remove dollar from the numeric values '12', '-$10', '$10,000'
+series_5 = pd.Series(['12', '-$10', '$10,000'])
+print(series_5)
+
+series_remove_dollar = [str(ele).replace("$","") for ele in series_5]
+print(series_remove_dollar)
+
+
+#################################################################
+
+# 6.6:- Create a series and reverse all lower case words 'india 1998', 'big country', np.nan
+series_6 = pd.Series(['india 1998', 'big country', np.nan])
+print(series_6)
+
+print(series_6[::-1])
+
+#################################################################
+
+# 6.7: Create pandas series and print true if value is alphanumeric in series or false if value is not alpha numeric in series.
+# '1', '2', '1a', '2b', '2003c'
+series_7 = pd.Series(['1', '2', '1a', '2b', '2003c'])
+print(series_7)
+
+series_aplha_check = [str(ele).isalnum() for ele in series_7]
+print(series_aplha_check)
+
+#################################################################
+
+# 6.8: Create pandas series and print true if value is containing ‘A’
+# '1', '2', '1a', '2b', 'America', 'VietnAm','vietnam', '2003c'
+series_8 = pd.Series(['1', '2', '1a', '2b', 'America', 'VietnAm','vietnam', '2003c'])
+print(series_8)
+
+series_true_if_contains_A = ["A" in str(ele) for ele in series_8]
+print(series_true_if_contains_A)
