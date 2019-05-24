@@ -1,0 +1,1798 @@
+Score,Age,Subject,Sex,ID
+88.0,18,Maths,1,1
+85.0,19,Maths,1,2
+45.0,19,Maths,1,3
+82.0,18,Maths,1,4
+82.0,18,Maths,2,5
+95.0,20,Maths,1,6
+95.0,18,Maths,1,7
+65.0,19,Maths,1,8
+88.0,18,Maths,1,9
+88.0,19,Maths,2,10
+53.0,20,Maths,1,11
+53.0,20,Maths,1,12
+66.0,19,Maths,1,13
+88.0,18,Maths,1,14
+88.0,21,Maths,2,15
+82.0,20,Maths,1,16
+31.0,18,Maths,1,17
+95.0,18,Maths,1,18
+91.0,18,Maths,1,19
+66.0,18,Maths,2,20
+82.0,18,Maths,1,21
+66.0,18,Maths,1,22
+75.0,18,Maths,1,23
+65.0,19,Maths,1,24
+91.0,20,Maths,2,25
+91.0,18,Maths,1,26
+53.0,20,Maths,1,27
+91.0,20,Maths,1,28
+88.0,21,Maths,1,29
+85.0,19,Maths,2,30
+75.0,20,Maths,1,31
+66.0,21,Maths,1,32
+45.0,19,Maths,1,33
+66.0,18,Maths,1,34
+53.0,20,Maths,2,35
+65.0,19,Maths,1,36
+53.0,18,Maths,1,37
+75.0,20,Maths,1,38
+45.0,18,Maths,1,39
+66.0,19,Maths,2,40
+75.0,20,Maths,1,41
+95.0,20,Maths,1,42
+65.0,21,Maths,1,43
+85.0,18,Maths,1,44
+82.0,20,Maths,2,45
+65.0,21,Maths,1,46
+85.0,21,Maths,1,47
+82.0,18,Maths,1,48
+65.0,18,Maths,1,49
+66.0,19,Maths,2,50
+82.0,18,Maths,1,51
+88.0,19,Maths,1,52
+0.0,19,Maths,1,53
+95.0,20,Maths,1,54
+88.0,21,Maths,2,55
+91.0,18,Maths,1,56
+53.0,20,Maths,1,57
+75.0,20,Maths,1,58
+75.0,20,Maths,1,59
+95.0,18,Maths,2,60
+88.0,19,Maths,1,61
+53.0,18,Maths,1,62
+82.0,20,Maths,1,63
+82.0,18,Maths,1,64
+85.0,21,Maths,2,65
+45.0,21,Maths,1,66
+75.0,20,Maths,1,67
+66.0,21,Maths,1,68
+45.0,19,Maths,1,69
+75.0,20,Maths,2,70
+53.0,20,Maths,1,71
+65.0,21,Maths,1,72
+53.0,20,Maths,1,73
+85.0,19,Maths,1,74
+82.0,18,Maths,2,75
+95.0,20,Maths,1,76
+66.0,19,Maths,1,77
+53.0,20,Maths,1,78
+65.0,18,Maths,1,79
+85.0,19,Maths,2,80
+88.0,19,Maths,1,81
+95.0,18,Maths,1,82
+53.0,20,Maths,1,83
+45.0,19,Maths,1,84
+45.0,21,Maths,2,85
+85.0,18,Maths,1,86
+45.0,19,Maths,1,87
+85.0,21,Maths,1,88
+45.0,18,Maths,1,89
+45.0,21,Maths,2,90
+85.0,19,Maths,1,91
+88.0,19,Maths,1,92
+85.0,19,Maths,1,93
+91.0,18,Maths,1,94
+65.0,19,Maths,2,95
+75.0,18,Maths,1,96
+88.0,19,Maths,1,97
+95.0,18,Maths,1,98
+65.0,21,Maths,1,99
+65.0,19,Maths,2,100
+45.0,18,Maths,1,101
+53.0,20,Maths,1,102
+95.0,18,Maths,1,103
+66.0,21,Maths,1,104
+82.0,18,Maths,2,105
+65.0,19,Maths,1,106
+45.0,21,Maths,1,107
+85.0,21,Maths,1,108
+45.0,19,Maths,1,109
+85.0,21,Maths,2,110
+65.0,21,Maths,1,111
+85.0,18,Maths,1,112
+88.0,19,Maths,1,113
+45.0,19,Maths,1,114
+95.0,20,Maths,2,115
+88.0,21,Maths,1,116
+75.0,18,Maths,1,117
+53.0,20,Maths,1,118
+82.0,20,Maths,1,119
+85.0,21,Maths,2,120
+91.0,18,Maths,1,121
+88.0,18,Maths,1,122
+85.0,21,Maths,1,123
+45.0,19,Maths,1,124
+53.0,18,Maths,2,125
+95.0,20,Maths,1,126
+45.0,21,Maths,1,127
+75.0,20,Maths,1,128
+66.0,21,Maths,1,129
+75.0,18,Maths,2,130
+66.0,18,Maths,1,131
+75.0,20,Maths,1,132
+53.0,18,Maths,1,133
+85.0,18,Maths,1,134
+85.0,18,Maths,2,135
+65.0,21,Maths,1,136
+65.0,21,Maths,1,137
+91.0,20,Maths,1,138
+85.0,21,Maths,1,139
+45.0,21,Maths,2,140
+82.0,18,Maths,1,141
+95.0,20,Maths,1,142
+85.0,18,Maths,1,143
+66.0,18,Maths,1,144
+88.0,21,Maths,2,145
+82.0,20,Maths,1,146
+53.0,18,Maths,1,147
+88.0,19,Maths,1,148
+45.0,18,Maths,1,149
+65.0,21,Maths,2,150
+95.0,18,Maths,1,151
+31.0,18,Maths,1,152
+66.0,18,Maths,1,153
+45.0,19,Maths,1,154
+53.0,18,Maths,2,155
+45.0,19,Maths,1,156
+53.0,18,Maths,1,157
+91.0,18,Maths,1,158
+85.0,19,Maths,1,159
+53.0,18,Maths,2,160
+88.0,18,Maths,1,161
+88.0,18,Maths,1,162
+82.0,18,Maths,1,163
+85.0,19,Maths,1,164
+45.0,18,Maths,2,165
+82.0,20,Maths,1,166
+91.0,18,Maths,1,167
+65.0,19,Maths,1,168
+65.0,19,Maths,1,169
+75.0,18,Maths,2,170
+88.0,18,Maths,1,171
+65.0,18,Maths,1,172
+53.0,20,Maths,1,173
+88.0,19,Maths,1,174
+45.0,19,Maths,2,175
+95.0,18,Maths,1,176
+75.0,18,Maths,1,177
+53.0,20,Maths,1,178
+53.0,18,Maths,1,179
+95.0,18,Maths,2,180
+95.0,20,Maths,1,181
+85.0,19,Maths,1,182
+88.0,19,Maths,1,183
+88.0,19,Maths,1,184
+95.0,20,Maths,2,185
+75.0,20,Maths,1,186
+75.0,20,Maths,1,187
+95.0,20,Maths,1,188
+91.0,20,Maths,1,189
+82.0,18,Maths,2,190
+85.0,19,Maths,1,191
+91.0,18,Maths,1,192
+85.0,19,Maths,1,193
+85.0,21,Maths,1,194
+91.0,20,Maths,2,195
+91.0,18,Maths,1,196
+85.0,21,Maths,1,197
+95.0,20,Maths,1,198
+88.0,21,Maths,1,199
+53.0,18,Maths,2,200
+66.0,18,Maths,1,201
+91.0,20,Maths,1,202
+45.0,19,Maths,1,203
+85.0,19,Maths,1,204
+82.0,18,Maths,2,205
+66.0,19,Maths,1,206
+75.0,20,Maths,1,207
+75.0,18,Maths,1,208
+95.0,18,Maths,1,209
+66.0,19,Maths,2,210
+66.0,21,Maths,1,211
+88.0,19,Maths,1,212
+88.0,19,Maths,1,213
+75.0,18,Maths,1,214
+66.0,19,Maths,2,215
+88.0,19,Maths,1,216
+82.0,20,Maths,1,217
+82.0,18,Maths,1,218
+45.0,19,Maths,1,219
+95.0,18,Maths,2,220
+66.0,19,Maths,1,221
+85.0,21,Maths,1,222
+82.0,18,Maths,1,223
+91.0,18,Maths,1,224
+85.0,21,Maths,2,225
+95.0,20,Maths,1,226
+53.0,20,Maths,1,227
+91.0,20,Maths,1,228
+45.0,19,Maths,1,229
+65.0,18,Maths,2,230
+75.0,20,Maths,1,231
+91.0,18,Maths,1,232
+53.0,20,Maths,1,233
+53.0,18,Maths,1,234
+53.0,18,Maths,2,235
+95.0,18,Maths,1,236
+75.0,20,Maths,1,237
+95.0,20,Maths,1,238
+82.0,18,Maths,1,239
+53.0,18,Maths,2,240
+95.0,18,Maths,1,241
+75.0,20,Maths,1,242
+66.0,18,Maths,1,243
+91.0,20,Maths,1,244
+91.0,20,Maths,2,245
+85.0,18,Maths,1,246
+75.0,20,Maths,1,247
+66.0,18,Maths,1,248
+75.0,20,Maths,1,249
+88.0,19,Maths,2,250
+88.0,18,Maths,1,251
+82.0,20,Maths,1,252
+65.0,18,Maths,1,253
+45.0,19,Maths,1,254
+85.0,18,Maths,2,255
+65.0,19,Maths,1,256
+75.0,20,Maths,1,257
+75.0,18,Maths,1,258
+53.0,20,Maths,1,259
+45.0,18,Maths,2,260
+91.0,18,Maths,1,261
+95.0,18,Maths,1,262
+95.0,18,Maths,1,263
+82.0,20,Maths,1,264
+53.0,18,Maths,2,265
+66.0,21,Maths,1,266
+45.0,19,Maths,1,267
+82.0,20,Maths,1,268
+65.0,19,Maths,1,269
+65.0,19,Maths,2,270
+88.0,21,Maths,1,271
+82.0,20,Maths,1,272
+95.0,18,Maths,1,273
+53.0,20,Maths,1,274
+91.0,18,Maths,2,275
+65.0,19,Maths,1,276
+65.0,19,Maths,1,277
+91.0,18,Maths,1,278
+66.0,18,Maths,1,279
+65.0,19,Maths,2,280
+45.0,19,Maths,1,281
+91.0,20,Maths,1,282
+45.0,21,Maths,1,283
+53.0,20,Maths,1,284
+75.0,18,Maths,2,285
+53.0,18,Maths,1,286
+95.0,18,Maths,1,287
+95.0,18,Maths,1,288
+85.0,19,Maths,1,289
+91.0,20,Maths,2,290
+66.0,19,Maths,1,291
+95.0,20,Maths,1,292
+88.0,19,Maths,1,293
+85.0,19,Maths,1,294
+66.0,18,Maths,2,295
+95.0,20,Maths,1,296
+91.0,18,Maths,1,297
+95.0,20,Maths,1,298
+85.0,18,Maths,1,299
+91.0,18,Maths,2,300
+64.0,19,Maths,1,301
+53.0,18,Maths,1,302
+85.0,19,Maths,1,303
+66.0,21,Maths,1,304
+53.0,20,Maths,2,305
+82.0,20,Maths,1,306
+75.0,18,Maths,1,307
+75.0,18,Maths,1,308
+64.0,19,Maths,1,309
+88.0,19,Maths,2,310
+91.0,20,Maths,1,311
+75.0,18,Maths,1,312
+66.0,21,Maths,1,313
+82.0,18,Maths,1,314
+45.0,21,Maths,2,315
+66.0,19,Maths,1,316
+66.0,19,Maths,1,317
+91.0,20,Maths,1,318
+66.0,19,Maths,1,319
+75.0,18,Maths,2,320
+91.0,20,Maths,1,321
+45.0,18,Maths,1,322
+75.0,18,Maths,1,323
+75.0,20,Maths,1,324
+65.0,21,Maths,2,325
+66.0,19,Maths,1,326
+85.0,19,Maths,1,327
+65.0,21,Maths,1,328
+95.0,20,Maths,1,329
+95.0,18,Maths,2,330
+95.0,18,Maths,1,331
+53.0,20,Maths,1,332
+66.0,19,Maths,1,333
+66.0,18,Maths,1,334
+53.0,20,Maths,2,335
+95.0,20,Maths,1,336
+91.0,20,Maths,1,337
+65.0,19,Maths,1,338
+88.0,18,Maths,1,339
+88.0,21,Maths,2,340
+65.0,19,Maths,1,341
+66.0,19,Maths,1,342
+66.0,21,Maths,1,343
+45.0,18,Maths,1,344
+88.0,21,Maths,2,345
+95.0,20,Maths,1,346
+66.0,19,Maths,1,347
+91.0,18,Maths,1,348
+85.0,19,Maths,1,349
+65.0,19,Maths,2,350
+75.0,18,Maths,1,351
+31.0,18,Maths,1,352
+65.0,18,Maths,1,353
+95.0,18,Maths,1,354
+82.0,20,Maths,2,355
+82.0,18,Maths,1,356
+65.0,18,Maths,1,357
+88.0,21,Maths,1,358
+75.0,18,Maths,1,359
+45.0,21,Maths,2,360
+45.0,18,Maths,1,361
+75.0,20,Maths,1,362
+88.0,19,Maths,1,363
+85.0,19,Maths,1,364
+66.0,19,Maths,2,365
+66.0,18,Maths,1,366
+75.0,20,Maths,1,367
+75.0,20,Maths,1,368
+45.0,19,Maths,1,369
+91.0,20,Maths,2,370
+91.0,18,Maths,1,371
+82.0,18,Maths,1,372
+75.0,20,Maths,1,373
+91.0,20,Maths,1,374
+88.0,19,Maths,2,375
+88.0,21,Maths,1,376
+66.0,19,Maths,1,377
+95.0,18,Maths,1,378
+45.0,18,Maths,1,379
+53.0,20,Maths,2,380
+91.0,20,Maths,1,381
+75.0,18,Maths,1,382
+66.0,21,Maths,1,383
+66.0,19,Maths,1,384
+91.0,20,Maths,2,385
+85.0,18,Maths,1,386
+82.0,20,Maths,1,387
+66.0,19,Maths,1,388
+75.0,18,Maths,1,389
+91.0,18,Maths,2,390
+45.0,19,Maths,1,391
+0.0,20,Maths,1,392
+91.0,20,Maths,1,393
+75.0,18,Maths,1,394
+82.0,20,Maths,2,395
+95.0,20,Maths,1,396
+88.0,19,Maths,1,397
+65.0,19,Maths,1,398
+85.0,21,Maths,1,399
+91.0,18,Maths,2,400
+91.0,20,Maths,1,401
+53.0,20,Maths,1,402
+95.0,20,Maths,1,403
+95.0,18,Maths,1,404
+53.0,18,Maths,2,405
+45.0,19,Maths,1,406
+75.0,18,Maths,1,407
+65.0,18,Maths,1,408
+45.0,19,Maths,1,409
+82.0,18,Maths,2,410
+82.0,18,Maths,1,411
+66.0,19,Maths,1,412
+65.0,21,Maths,1,413
+66.0,19,Maths,1,414
+95.0,18,Maths,2,415
+45.0,21,Maths,1,416
+65.0,19,Maths,1,417
+88.0,19,Maths,1,418
+65.0,19,Maths,1,419
+85.0,18,Maths,2,420
+75.0,18,Maths,1,421
+82.0,20,Maths,1,422
+82.0,20,Maths,1,423
+66.0,21,Maths,1,424
+85.0,19,Maths,2,425
+75.0,18,Maths,1,426
+91.0,20,Maths,1,427
+65.0,19,Maths,1,428
+82.0,20,Maths,1,429
+45.0,18,Maths,2,430
+95.0,20,Maths,1,431
+88.0,18,Maths,1,432
+53.0,18,Maths,1,433
+82.0,18,Maths,1,434
+66.0,19,Maths,2,435
+91.0,20,Maths,1,436
+45.0,18,Maths,1,437
+53.0,18,Maths,1,438
+85.0,19,Maths,1,439
+91.0,18,Maths,2,440
+53.0,18,Maths,1,441
+88.0,19,Maths,1,442
+85.0,18,Maths,1,443
+45.0,19,Maths,1,444
+53.0,18,Maths,2,445
+75.0,20,Maths,1,446
+85.0,19,Maths,1,447
+66.0,19,Maths,1,448
+82.0,20,Maths,1,449
+85.0,19,Maths,2,450
+82.0,20,Maths,1,451
+82.0,18,Maths,1,452
+95.0,18,Maths,1,453
+85.0,19,Maths,1,454
+75.0,20,Maths,2,455
+91.0,20,Maths,1,456
+95.0,18,Maths,1,457
+95.0,20,Maths,1,458
+53.0,18,Maths,1,459
+85.0,18,Maths,2,460
+95.0,20,Maths,1,461
+65.0,19,Maths,1,462
+91.0,20,Maths,1,463
+75.0,20,Maths,1,464
+45.0,21,Maths,2,465
+53.0,20,Maths,1,466
+88.0,21,Maths,1,467
+66.0,18,Maths,1,468
+53.0,18,Maths,1,469
+82.0,18,Maths,2,470
+82.0,18,Maths,1,471
+53.0,20,Maths,1,472
+85.0,21,Maths,1,473
+45.0,21,Maths,1,474
+91.0,20,Maths,2,475
+82.0,20,Maths,1,476
+45.0,19,Maths,1,477
+75.0,18,Maths,1,478
+95.0,18,Maths,1,479
+88.0,21,Maths,2,480
+88.0,19,Maths,1,481
+85.0,18,Maths,1,482
+82.0,20,Maths,1,483
+66.0,19,Maths,1,484
+88.0,18,Maths,2,485
+91.0,20,Maths,1,486
+95.0,20,Maths,1,487
+75.0,18,Maths,1,488
+75.0,18,Maths,1,489
+53.0,20,Maths,2,490
+88.0,18,Maths,1,491
+82.0,20,Maths,1,492
+88.0,19,Maths,1,493
+91.0,20,Maths,1,494
+75.0,18,Maths,2,495
+75.0,18,Maths,1,496
+91.0,18,Maths,1,497
+85.0,19,Maths,1,498
+88.0,18,Maths,1,499
+53.0,18,Maths,2,500
+53.0,20,Maths,1,501
+65.0,18,Maths,1,502
+91.0,18,Maths,1,503
+91.0,18,Maths,1,504
+45.0,19,Maths,2,505
+66.0,21,Maths,1,506
+66.0,21,Maths,1,507
+53.0,18,Maths,1,508
+65.0,19,Maths,1,509
+53.0,18,Maths,2,510
+91.0,18,Maths,1,511
+82.0,20,Maths,1,512
+45.0,19,Maths,1,513
+65.0,19,Maths,1,514
+65.0,18,Maths,2,515
+53.0,18,Maths,1,516
+82.0,18,Maths,1,517
+88.0,19,Maths,1,518
+95.0,20,Maths,1,519
+64.0,19,Maths,2,520
+82.0,20,Maths,1,521
+45.0,19,Maths,1,522
+53.0,18,Maths,1,523
+45.0,21,Maths,1,524
+85.0,19,Maths,2,525
+91.0,18,Maths,1,526
+75.0,20,Maths,1,527
+88.0,18,Maths,1,528
+45.0,19,Maths,1,529
+88.0,19,Maths,2,530
+45.0,18,Maths,1,531
+65.0,21,Maths,1,532
+45.0,21,Maths,1,533
+88.0,21,Maths,1,534
+95.0,20,Maths,2,535
+95.0,20,Maths,1,536
+82.0,18,Maths,1,537
+65.0,19,Maths,1,538
+91.0,18,Maths,1,539
+65.0,18,Maths,2,540
+66.0,21,Maths,1,541
+95.0,18,Maths,1,542
+82.0,18,Maths,1,543
+75.0,20,Maths,1,544
+82.0,20,Maths,2,545
+85.0,19,Maths,1,546
+65.0,19,Maths,1,547
+88.0,18,Maths,1,548
+85.0,19,Maths,1,549
+82.0,20,Maths,2,550
+82.0,18,Maths,1,551
+91.0,18,Maths,1,552
+85.0,19,Maths,1,553
+65.0,21,Maths,1,554
+66.0,19,Maths,2,555
+82.0,18,Maths,1,556
+66.0,19,Maths,1,557
+65.0,19,Maths,1,558
+91.0,18,Maths,1,559
+95.0,20,Maths,2,560
+66.0,18,Maths,1,561
+53.0,20,Maths,1,562
+65.0,19,Maths,1,563
+45.0,18,Maths,1,564
+0.0,21,Maths,2,565
+65.0,18,Maths,1,566
+66.0,21,Maths,1,567
+53.0,18,Maths,1,568
+95.0,20,Maths,1,569
+65.0,19,Maths,2,570
+45.0,19,Maths,1,571
+82.0,20,Maths,1,572
+53.0,18,Maths,1,573
+85.0,18,Maths,1,574
+75.0,20,Maths,2,575
+85.0,21,Maths,1,576
+75.0,18,Maths,1,577
+85.0,19,Maths,1,578
+82.0,18,Maths,1,579
+65.0,21,Maths,2,580
+95.0,18,Maths,1,581
+91.0,20,Maths,1,582
+45.0,21,Maths,1,583
+95.0,18,Maths,1,584
+91.0,18,Maths,2,585
+53.0,20,Maths,1,586
+85.0,19,Maths,1,587
+45.0,18,Maths,1,588
+88.0,19,Maths,1,589
+82.0,20,Maths,2,590
+65.0,19,Maths,1,591
+88.0,19,Maths,1,592
+91.0,20,Maths,1,593
+88.0,19,Maths,1,594
+45.0,19,Maths,2,595
+75.0,18,Maths,1,596
+53.0,20,Maths,1,597
+75.0,20,Maths,1,598
+88.0,19,Maths,1,599
+82.0,18,Data Structue,1,1
+79.0,19,Data Structue,1,2
+39.0,19,Data Structue,1,3
+76.0,18,Data Structue,1,4
+76.0,18,Data Structue,2,5
+89.0,20,Data Structue,1,6
+89.0,18,Data Structue,1,7
+59.0,19,Data Structue,1,8
+82.0,18,Data Structue,1,9
+82.0,19,Data Structue,2,10
+47.0,20,Data Structue,1,11
+47.0,20,Data Structue,1,12
+60.0,19,Data Structue,1,13
+82.0,18,Data Structue,1,14
+82.0,21,Data Structue,2,15
+76.0,20,Data Structue,1,16
+25.0,18,Data Structue,1,17
+89.0,18,Data Structue,1,18
+85.0,18,Data Structue,1,19
+60.0,18,Data Structue,2,20
+76.0,18,Data Structue,1,21
+60.0,18,Data Structue,1,22
+69.0,18,Data Structue,1,23
+59.0,19,Data Structue,1,24
+85.0,20,Data Structue,2,25
+85.0,18,Data Structue,1,26
+47.0,20,Data Structue,1,27
+85.0,20,Data Structue,1,28
+82.0,21,Data Structue,1,29
+79.0,19,Data Structue,2,30
+69.0,20,Data Structue,1,31
+60.0,21,Data Structue,1,32
+39.0,19,Data Structue,1,33
+0.0,18,Data Structue,1,34
+47.0,20,Data Structue,2,35
+59.0,19,Data Structue,1,36
+47.0,18,Data Structue,1,37
+69.0,20,Data Structue,1,38
+39.0,18,Data Structue,1,39
+60.0,19,Data Structue,2,40
+69.0,20,Data Structue,1,41
+89.0,20,Data Structue,1,42
+59.0,21,Data Structue,1,43
+79.0,18,Data Structue,1,44
+76.0,20,Data Structue,2,45
+59.0,21,Data Structue,1,46
+79.0,21,Data Structue,1,47
+76.0,18,Data Structue,1,48
+59.0,18,Data Structue,1,49
+60.0,19,Data Structue,2,50
+76.0,18,Data Structue,1,51
+82.0,19,Data Structue,1,52
+39.0,19,Data Structue,1,53
+89.0,20,Data Structue,1,54
+82.0,21,Data Structue,2,55
+85.0,18,Data Structue,1,56
+47.0,20,Data Structue,1,57
+69.0,20,Data Structue,1,58
+69.0,20,Data Structue,1,59
+89.0,18,Data Structue,2,60
+82.0,19,Data Structue,1,61
+47.0,18,Data Structue,1,62
+76.0,20,Data Structue,1,63
+76.0,18,Data Structue,1,64
+79.0,21,Data Structue,2,65
+39.0,21,Data Structue,1,66
+69.0,20,Data Structue,1,67
+60.0,21,Data Structue,1,68
+39.0,19,Data Structue,1,69
+69.0,20,Data Structue,2,70
+47.0,20,Data Structue,1,71
+59.0,21,Data Structue,1,72
+47.0,20,Data Structue,1,73
+79.0,19,Data Structue,1,74
+76.0,18,Data Structue,2,75
+89.0,20,Data Structue,1,76
+60.0,19,Data Structue,1,77
+47.0,20,Data Structue,1,78
+59.0,18,Data Structue,1,79
+79.0,19,Data Structue,2,80
+82.0,19,Data Structue,1,81
+89.0,18,Data Structue,1,82
+47.0,20,Data Structue,1,83
+39.0,19,Data Structue,1,84
+39.0,21,Data Structue,2,85
+79.0,18,Data Structue,1,86
+0.0,19,Data Structue,1,87
+79.0,21,Data Structue,1,88
+39.0,18,Data Structue,1,89
+39.0,21,Data Structue,2,90
+79.0,19,Data Structue,1,91
+82.0,19,Data Structue,1,92
+79.0,19,Data Structue,1,93
+85.0,18,Data Structue,1,94
+59.0,19,Data Structue,2,95
+69.0,18,Data Structue,1,96
+82.0,19,Data Structue,1,97
+89.0,18,Data Structue,1,98
+59.0,21,Data Structue,1,99
+59.0,19,Data Structue,2,100
+39.0,18,Data Structue,1,101
+47.0,20,Data Structue,1,102
+89.0,18,Data Structue,1,103
+60.0,21,Data Structue,1,104
+76.0,18,Data Structue,2,105
+59.0,19,Data Structue,1,106
+39.0,21,Data Structue,1,107
+79.0,21,Data Structue,1,108
+39.0,19,Data Structue,1,109
+79.0,21,Data Structue,2,110
+59.0,21,Data Structue,1,111
+79.0,18,Data Structue,1,112
+82.0,19,Data Structue,1,113
+39.0,19,Data Structue,1,114
+89.0,20,Data Structue,2,115
+82.0,21,Data Structue,1,116
+69.0,18,Data Structue,1,117
+47.0,20,Data Structue,1,118
+76.0,20,Data Structue,1,119
+79.0,21,Data Structue,2,120
+85.0,18,Data Structue,1,121
+82.0,18,Data Structue,1,122
+79.0,21,Data Structue,1,123
+39.0,19,Data Structue,1,124
+47.0,18,Data Structue,2,125
+89.0,20,Data Structue,1,126
+39.0,21,Data Structue,1,127
+69.0,20,Data Structue,1,128
+60.0,21,Data Structue,1,129
+69.0,18,Data Structue,2,130
+60.0,18,Data Structue,1,131
+69.0,20,Data Structue,1,132
+47.0,18,Data Structue,1,133
+79.0,18,Data Structue,1,134
+79.0,18,Data Structue,2,135
+59.0,21,Data Structue,1,136
+59.0,21,Data Structue,1,137
+85.0,20,Data Structue,1,138
+79.0,21,Data Structue,1,139
+0.0,21,Data Structue,2,140
+76.0,18,Data Structue,1,141
+89.0,20,Data Structue,1,142
+79.0,18,Data Structue,1,143
+60.0,18,Data Structue,1,144
+82.0,21,Data Structue,2,145
+76.0,20,Data Structue,1,146
+47.0,18,Data Structue,1,147
+82.0,19,Data Structue,1,148
+39.0,18,Data Structue,1,149
+59.0,21,Data Structue,2,150
+89.0,18,Data Structue,1,151
+25.0,18,Data Structue,1,152
+60.0,18,Data Structue,1,153
+39.0,19,Data Structue,1,154
+47.0,18,Data Structue,2,155
+39.0,19,Data Structue,1,156
+47.0,18,Data Structue,1,157
+85.0,18,Data Structue,1,158
+79.0,19,Data Structue,1,159
+47.0,18,Data Structue,2,160
+82.0,18,Data Structue,1,161
+0.0,18,Data Structue,1,162
+76.0,18,Data Structue,1,163
+79.0,19,Data Structue,1,164
+39.0,18,Data Structue,2,165
+76.0,20,Data Structue,1,166
+85.0,18,Data Structue,1,167
+59.0,19,Data Structue,1,168
+59.0,19,Data Structue,1,169
+69.0,18,Data Structue,2,170
+82.0,18,Data Structue,1,171
+59.0,18,Data Structue,1,172
+47.0,20,Data Structue,1,173
+82.0,19,Data Structue,1,174
+39.0,19,Data Structue,2,175
+89.0,18,Data Structue,1,176
+69.0,18,Data Structue,1,177
+47.0,20,Data Structue,1,178
+47.0,18,Data Structue,1,179
+89.0,18,Data Structue,2,180
+89.0,20,Data Structue,1,181
+79.0,19,Data Structue,1,182
+82.0,19,Data Structue,1,183
+82.0,19,Data Structue,1,184
+89.0,20,Data Structue,2,185
+69.0,20,Data Structue,1,186
+69.0,20,Data Structue,1,187
+89.0,20,Data Structue,1,188
+85.0,20,Data Structue,1,189
+76.0,18,Data Structue,2,190
+79.0,19,Data Structue,1,191
+85.0,18,Data Structue,1,192
+79.0,19,Data Structue,1,193
+79.0,21,Data Structue,1,194
+85.0,20,Data Structue,2,195
+85.0,18,Data Structue,1,196
+79.0,21,Data Structue,1,197
+89.0,20,Data Structue,1,198
+82.0,21,Data Structue,1,199
+47.0,18,Data Structue,2,200
+60.0,18,Data Structue,1,201
+85.0,20,Data Structue,1,202
+39.0,19,Data Structue,1,203
+79.0,19,Data Structue,1,204
+76.0,18,Data Structue,2,205
+60.0,19,Data Structue,1,206
+69.0,20,Data Structue,1,207
+69.0,18,Data Structue,1,208
+89.0,18,Data Structue,1,209
+60.0,19,Data Structue,2,210
+60.0,21,Data Structue,1,211
+82.0,19,Data Structue,1,212
+82.0,19,Data Structue,1,213
+69.0,18,Data Structue,1,214
+60.0,19,Data Structue,2,215
+0.0,19,Data Structue,1,216
+76.0,20,Data Structue,1,217
+76.0,18,Data Structue,1,218
+39.0,19,Data Structue,1,219
+89.0,18,Data Structue,2,220
+60.0,19,Data Structue,1,221
+79.0,21,Data Structue,1,222
+76.0,18,Data Structue,1,223
+85.0,18,Data Structue,1,224
+79.0,21,Data Structue,2,225
+89.0,20,Data Structue,1,226
+47.0,20,Data Structue,1,227
+85.0,20,Data Structue,1,228
+39.0,19,Data Structue,1,229
+59.0,18,Data Structue,2,230
+69.0,20,Data Structue,1,231
+85.0,18,Data Structue,1,232
+47.0,20,Data Structue,1,233
+47.0,18,Data Structue,1,234
+47.0,18,Data Structue,2,235
+89.0,18,Data Structue,1,236
+69.0,20,Data Structue,1,237
+89.0,20,Data Structue,1,238
+76.0,18,Data Structue,1,239
+47.0,18,Data Structue,2,240
+89.0,18,Data Structue,1,241
+69.0,20,Data Structue,1,242
+60.0,18,Data Structue,1,243
+85.0,20,Data Structue,1,244
+85.0,20,Data Structue,2,245
+79.0,18,Data Structue,1,246
+69.0,20,Data Structue,1,247
+60.0,18,Data Structue,1,248
+69.0,20,Data Structue,1,249
+82.0,19,Data Structue,2,250
+82.0,18,Data Structue,1,251
+76.0,20,Data Structue,1,252
+59.0,18,Data Structue,1,253
+39.0,19,Data Structue,1,254
+79.0,18,Data Structue,2,255
+59.0,19,Data Structue,1,256
+69.0,20,Data Structue,1,257
+69.0,18,Data Structue,1,258
+47.0,20,Data Structue,1,259
+39.0,18,Data Structue,2,260
+85.0,18,Data Structue,1,261
+89.0,18,Data Structue,1,262
+89.0,18,Data Structue,1,263
+76.0,20,Data Structue,1,264
+47.0,18,Data Structue,2,265
+60.0,21,Data Structue,1,266
+39.0,19,Data Structue,1,267
+76.0,20,Data Structue,1,268
+59.0,19,Data Structue,1,269
+59.0,19,Data Structue,2,270
+82.0,21,Data Structue,1,271
+76.0,20,Data Structue,1,272
+89.0,18,Data Structue,1,273
+47.0,20,Data Structue,1,274
+85.0,18,Data Structue,2,275
+59.0,19,Data Structue,1,276
+59.0,19,Data Structue,1,277
+85.0,18,Data Structue,1,278
+60.0,18,Data Structue,1,279
+59.0,19,Data Structue,2,280
+39.0,19,Data Structue,1,281
+85.0,20,Data Structue,1,282
+39.0,21,Data Structue,1,283
+47.0,20,Data Structue,1,284
+69.0,18,Data Structue,2,285
+47.0,18,Data Structue,1,286
+89.0,18,Data Structue,1,287
+89.0,18,Data Structue,1,288
+79.0,19,Data Structue,1,289
+85.0,20,Data Structue,2,290
+60.0,19,Data Structue,1,291
+89.0,20,Data Structue,1,292
+82.0,19,Data Structue,1,293
+79.0,19,Data Structue,1,294
+60.0,18,Data Structue,2,295
+89.0,20,Data Structue,1,296
+85.0,18,Data Structue,1,297
+89.0,20,Data Structue,1,298
+79.0,18,Data Structue,1,299
+85.0,18,Data Structue,2,300
+58.0,19,Data Structue,1,301
+47.0,18,Data Structue,1,302
+79.0,19,Data Structue,1,303
+60.0,21,Data Structue,1,304
+47.0,20,Data Structue,2,305
+76.0,20,Data Structue,1,306
+69.0,18,Data Structue,1,307
+69.0,18,Data Structue,1,308
+58.0,19,Data Structue,1,309
+82.0,19,Data Structue,2,310
+85.0,20,Data Structue,1,311
+69.0,18,Data Structue,1,312
+60.0,21,Data Structue,1,313
+76.0,18,Data Structue,1,314
+39.0,21,Data Structue,2,315
+60.0,19,Data Structue,1,316
+60.0,19,Data Structue,1,317
+85.0,20,Data Structue,1,318
+60.0,19,Data Structue,1,319
+69.0,18,Data Structue,2,320
+85.0,20,Data Structue,1,321
+39.0,18,Data Structue,1,322
+69.0,18,Data Structue,1,323
+69.0,20,Data Structue,1,324
+59.0,21,Data Structue,2,325
+60.0,19,Data Structue,1,326
+79.0,19,Data Structue,1,327
+59.0,21,Data Structue,1,328
+89.0,20,Data Structue,1,329
+89.0,18,Data Structue,2,330
+89.0,18,Data Structue,1,331
+47.0,20,Data Structue,1,332
+60.0,19,Data Structue,1,333
+60.0,18,Data Structue,1,334
+47.0,20,Data Structue,2,335
+89.0,20,Data Structue,1,336
+85.0,20,Data Structue,1,337
+59.0,19,Data Structue,1,338
+82.0,18,Data Structue,1,339
+82.0,21,Data Structue,2,340
+59.0,19,Data Structue,1,341
+60.0,19,Data Structue,1,342
+60.0,21,Data Structue,1,343
+39.0,18,Data Structue,1,344
+82.0,21,Data Structue,2,345
+89.0,20,Data Structue,1,346
+60.0,19,Data Structue,1,347
+85.0,18,Data Structue,1,348
+79.0,19,Data Structue,1,349
+59.0,19,Data Structue,2,350
+69.0,18,Data Structue,1,351
+25.0,18,Data Structue,1,352
+59.0,18,Data Structue,1,353
+89.0,18,Data Structue,1,354
+76.0,20,Data Structue,2,355
+76.0,18,Data Structue,1,356
+59.0,18,Data Structue,1,357
+82.0,21,Data Structue,1,358
+69.0,18,Data Structue,1,359
+39.0,21,Data Structue,2,360
+39.0,18,Data Structue,1,361
+69.0,20,Data Structue,1,362
+82.0,19,Data Structue,1,363
+79.0,19,Data Structue,1,364
+60.0,19,Data Structue,2,365
+60.0,18,Data Structue,1,366
+69.0,20,Data Structue,1,367
+69.0,20,Data Structue,1,368
+39.0,19,Data Structue,1,369
+85.0,20,Data Structue,2,370
+85.0,18,Data Structue,1,371
+76.0,18,Data Structue,1,372
+69.0,20,Data Structue,1,373
+85.0,20,Data Structue,1,374
+82.0,19,Data Structue,2,375
+82.0,21,Data Structue,1,376
+60.0,19,Data Structue,1,377
+89.0,18,Data Structue,1,378
+39.0,18,Data Structue,1,379
+47.0,20,Data Structue,2,380
+85.0,20,Data Structue,1,381
+69.0,18,Data Structue,1,382
+60.0,21,Data Structue,1,383
+60.0,19,Data Structue,1,384
+85.0,20,Data Structue,2,385
+79.0,18,Data Structue,1,386
+76.0,20,Data Structue,1,387
+60.0,19,Data Structue,1,388
+69.0,18,Data Structue,1,389
+85.0,18,Data Structue,2,390
+39.0,19,Data Structue,1,391
+76.0,20,Data Structue,1,392
+85.0,20,Data Structue,1,393
+69.0,18,Data Structue,1,394
+76.0,20,Data Structue,2,395
+89.0,20,Data Structue,1,396
+82.0,19,Data Structue,1,397
+59.0,19,Data Structue,1,398
+79.0,21,Data Structue,1,399
+85.0,18,Data Structue,2,400
+85.0,20,Data Structue,1,401
+47.0,20,Data Structue,1,402
+89.0,20,Data Structue,1,403
+89.0,18,Data Structue,1,404
+47.0,18,Data Structue,2,405
+39.0,19,Data Structue,1,406
+69.0,18,Data Structue,1,407
+59.0,18,Data Structue,1,408
+39.0,19,Data Structue,1,409
+76.0,18,Data Structue,2,410
+76.0,18,Data Structue,1,411
+60.0,19,Data Structue,1,412
+59.0,21,Data Structue,1,413
+60.0,19,Data Structue,1,414
+89.0,18,Data Structue,2,415
+39.0,21,Data Structue,1,416
+59.0,19,Data Structue,1,417
+0.0,19,Data Structue,1,418
+59.0,19,Data Structue,1,419
+79.0,18,Data Structue,2,420
+69.0,18,Data Structue,1,421
+76.0,20,Data Structue,1,422
+76.0,20,Data Structue,1,423
+60.0,21,Data Structue,1,424
+79.0,19,Data Structue,2,425
+69.0,18,Data Structue,1,426
+85.0,20,Data Structue,1,427
+59.0,19,Data Structue,1,428
+76.0,20,Data Structue,1,429
+39.0,18,Data Structue,2,430
+89.0,20,Data Structue,1,431
+82.0,18,Data Structue,1,432
+47.0,18,Data Structue,1,433
+76.0,18,Data Structue,1,434
+60.0,19,Data Structue,2,435
+85.0,20,Data Structue,1,436
+39.0,18,Data Structue,1,437
+47.0,18,Data Structue,1,438
+79.0,19,Data Structue,1,439
+85.0,18,Data Structue,2,440
+47.0,18,Data Structue,1,441
+82.0,19,Data Structue,1,442
+79.0,18,Data Structue,1,443
+39.0,19,Data Structue,1,444
+47.0,18,Data Structue,2,445
+69.0,20,Data Structue,1,446
+79.0,19,Data Structue,1,447
+60.0,19,Data Structue,1,448
+76.0,20,Data Structue,1,449
+79.0,19,Data Structue,2,450
+76.0,20,Data Structue,1,451
+76.0,18,Data Structue,1,452
+89.0,18,Data Structue,1,453
+79.0,19,Data Structue,1,454
+69.0,20,Data Structue,2,455
+85.0,20,Data Structue,1,456
+89.0,18,Data Structue,1,457
+89.0,20,Data Structue,1,458
+47.0,18,Data Structue,1,459
+79.0,18,Data Structue,2,460
+89.0,20,Data Structue,1,461
+59.0,19,Data Structue,1,462
+85.0,20,Data Structue,1,463
+69.0,20,Data Structue,1,464
+0.0,21,Data Structue,2,465
+47.0,20,Data Structue,1,466
+82.0,21,Data Structue,1,467
+60.0,18,Data Structue,1,468
+47.0,18,Data Structue,1,469
+76.0,18,Data Structue,2,470
+76.0,18,Data Structue,1,471
+47.0,20,Data Structue,1,472
+79.0,21,Data Structue,1,473
+39.0,21,Data Structue,1,474
+85.0,20,Data Structue,2,475
+76.0,20,Data Structue,1,476
+39.0,19,Data Structue,1,477
+69.0,18,Data Structue,1,478
+89.0,18,Data Structue,1,479
+82.0,21,Data Structue,2,480
+82.0,19,Data Structue,1,481
+79.0,18,Data Structue,1,482
+76.0,20,Data Structue,1,483
+60.0,19,Data Structue,1,484
+82.0,18,Data Structue,2,485
+85.0,20,Data Structue,1,486
+89.0,20,Data Structue,1,487
+69.0,18,Data Structue,1,488
+69.0,18,Data Structue,1,489
+47.0,20,Data Structue,2,490
+82.0,18,Data Structue,1,491
+76.0,20,Data Structue,1,492
+82.0,19,Data Structue,1,493
+85.0,20,Data Structue,1,494
+69.0,18,Data Structue,2,495
+69.0,18,Data Structue,1,496
+85.0,18,Data Structue,1,497
+79.0,19,Data Structue,1,498
+82.0,18,Data Structue,1,499
+47.0,18,Data Structue,2,500
+47.0,20,Data Structue,1,501
+59.0,18,Data Structue,1,502
+85.0,18,Data Structue,1,503
+85.0,18,Data Structue,1,504
+39.0,19,Data Structue,2,505
+60.0,21,Data Structue,1,506
+60.0,21,Data Structue,1,507
+47.0,18,Data Structue,1,508
+59.0,19,Data Structue,1,509
+47.0,18,Data Structue,2,510
+85.0,18,Data Structue,1,511
+76.0,20,Data Structue,1,512
+39.0,19,Data Structue,1,513
+59.0,19,Data Structue,1,514
+59.0,18,Data Structue,2,515
+47.0,18,Data Structue,1,516
+76.0,18,Data Structue,1,517
+82.0,19,Data Structue,1,518
+89.0,20,Data Structue,1,519
+58.0,19,Data Structue,2,520
+76.0,20,Data Structue,1,521
+39.0,19,Data Structue,1,522
+47.0,18,Data Structue,1,523
+39.0,21,Data Structue,1,524
+79.0,19,Data Structue,2,525
+85.0,18,Data Structue,1,526
+69.0,20,Data Structue,1,527
+82.0,18,Data Structue,1,528
+39.0,19,Data Structue,1,529
+82.0,19,Data Structue,2,530
+39.0,18,Data Structue,1,531
+59.0,21,Data Structue,1,532
+39.0,21,Data Structue,1,533
+82.0,21,Data Structue,1,534
+89.0,20,Data Structue,2,535
+89.0,20,Data Structue,1,536
+76.0,18,Data Structue,1,537
+59.0,19,Data Structue,1,538
+85.0,18,Data Structue,1,539
+59.0,18,Data Structue,2,540
+60.0,21,Data Structue,1,541
+89.0,18,Data Structue,1,542
+76.0,18,Data Structue,1,543
+69.0,20,Data Structue,1,544
+76.0,20,Data Structue,2,545
+79.0,19,Data Structue,1,546
+59.0,19,Data Structue,1,547
+82.0,18,Data Structue,1,548
+79.0,19,Data Structue,1,549
+76.0,20,Data Structue,2,550
+76.0,18,Data Structue,1,551
+85.0,18,Data Structue,1,552
+79.0,19,Data Structue,1,553
+59.0,21,Data Structue,1,554
+60.0,19,Data Structue,2,555
+76.0,18,Data Structue,1,556
+60.0,19,Data Structue,1,557
+59.0,19,Data Structue,1,558
+85.0,18,Data Structue,1,559
+89.0,20,Data Structue,2,560
+60.0,18,Data Structue,1,561
+47.0,20,Data Structue,1,562
+59.0,19,Data Structue,1,563
+39.0,18,Data Structue,1,564
+59.0,21,Data Structue,2,565
+59.0,18,Data Structue,1,566
+60.0,21,Data Structue,1,567
+47.0,18,Data Structue,1,568
+89.0,20,Data Structue,1,569
+59.0,19,Data Structue,2,570
+39.0,19,Data Structue,1,571
+76.0,20,Data Structue,1,572
+47.0,18,Data Structue,1,573
+79.0,18,Data Structue,1,574
+69.0,20,Data Structue,2,575
+79.0,21,Data Structue,1,576
+69.0,18,Data Structue,1,577
+79.0,19,Data Structue,1,578
+76.0,18,Data Structue,1,579
+59.0,21,Data Structue,2,580
+89.0,18,Data Structue,1,581
+85.0,20,Data Structue,1,582
+39.0,21,Data Structue,1,583
+89.0,18,Data Structue,1,584
+85.0,18,Data Structue,2,585
+47.0,20,Data Structue,1,586
+79.0,19,Data Structue,1,587
+39.0,18,Data Structue,1,588
+82.0,19,Data Structue,1,589
+76.0,20,Data Structue,2,590
+59.0,19,Data Structue,1,591
+82.0,19,Data Structue,1,592
+85.0,20,Data Structue,1,593
+82.0,19,Data Structue,1,594
+39.0,19,Data Structue,2,595
+69.0,18,Data Structue,1,596
+47.0,20,Data Structue,1,597
+69.0,20,Data Structue,1,598
+0.0,19,Data Structue,1,599
+84.0,18,Physics,1,1
+81.0,19,Physics,1,2
+41.0,19,Physics,1,3
+78.0,18,Physics,1,4
+78.0,18,Physics,2,5
+91.0,20,Physics,1,6
+91.0,18,Physics,1,7
+61.0,19,Physics,1,8
+84.0,18,Physics,1,9
+84.0,19,Physics,2,10
+49.0,20,Physics,1,11
+49.0,20,Physics,1,12
+62.0,19,Physics,1,13
+84.0,18,Physics,1,14
+84.0,21,Physics,2,15
+78.0,20,Physics,1,16
+0.0,18,Physics,1,17
+91.0,18,Physics,1,18
+87.0,18,Physics,1,19
+62.0,18,Physics,2,20
+78.0,18,Physics,1,21
+62.0,18,Physics,1,22
+71.0,18,Physics,1,23
+61.0,19,Physics,1,24
+87.0,20,Physics,2,25
+87.0,18,Physics,1,26
+49.0,20,Physics,1,27
+87.0,20,Physics,1,28
+84.0,21,Physics,1,29
+81.0,19,Physics,2,30
+71.0,20,Physics,1,31
+62.0,21,Physics,1,32
+41.0,19,Physics,1,33
+94.0,18,Physics,1,34
+49.0,20,Physics,2,35
+61.0,19,Physics,1,36
+49.0,18,Physics,1,37
+71.0,20,Physics,1,38
+41.0,18,Physics,1,39
+62.0,19,Physics,2,40
+71.0,20,Physics,1,41
+91.0,20,Physics,1,42
+61.0,21,Physics,1,43
+81.0,18,Physics,1,44
+78.0,20,Physics,2,45
+61.0,21,Physics,1,46
+81.0,21,Physics,1,47
+78.0,18,Physics,1,48
+61.0,18,Physics,1,49
+62.0,19,Physics,2,50
+78.0,18,Physics,1,51
+84.0,19,Physics,1,52
+41.0,19,Physics,1,53
+91.0,20,Physics,1,54
+84.0,21,Physics,2,55
+87.0,18,Physics,1,56
+49.0,20,Physics,1,57
+71.0,20,Physics,1,58
+71.0,20,Physics,1,59
+91.0,18,Physics,2,60
+84.0,19,Physics,1,61
+49.0,18,Physics,1,62
+78.0,20,Physics,1,63
+78.0,18,Physics,1,64
+81.0,21,Physics,2,65
+0.0,21,Physics,1,66
+71.0,20,Physics,1,67
+62.0,21,Physics,1,68
+41.0,19,Physics,1,69
+71.0,20,Physics,2,70
+49.0,20,Physics,1,71
+61.0,21,Physics,1,72
+49.0,20,Physics,1,73
+81.0,19,Physics,1,74
+78.0,18,Physics,2,75
+91.0,20,Physics,1,76
+62.0,19,Physics,1,77
+49.0,20,Physics,1,78
+61.0,18,Physics,1,79
+81.0,19,Physics,2,80
+84.0,19,Physics,1,81
+91.0,18,Physics,1,82
+49.0,20,Physics,1,83
+41.0,19,Physics,1,84
+41.0,21,Physics,2,85
+81.0,18,Physics,1,86
+90.0,19,Physics,1,87
+81.0,21,Physics,1,88
+41.0,18,Physics,1,89
+41.0,21,Physics,2,90
+0.0,19,Physics,1,91
+84.0,19,Physics,1,92
+81.0,19,Physics,1,93
+87.0,18,Physics,1,94
+61.0,19,Physics,2,95
+71.0,18,Physics,1,96
+84.0,19,Physics,1,97
+91.0,18,Physics,1,98
+61.0,21,Physics,1,99
+61.0,19,Physics,2,100
+41.0,18,Physics,1,101
+49.0,20,Physics,1,102
+91.0,18,Physics,1,103
+62.0,21,Physics,1,104
+78.0,18,Physics,2,105
+61.0,19,Physics,1,106
+0.0,21,Physics,1,107
+81.0,21,Physics,1,108
+0.0,19,Physics,1,109
+81.0,21,Physics,2,110
+61.0,21,Physics,1,111
+81.0,18,Physics,1,112
+84.0,19,Physics,1,113
+41.0,19,Physics,1,114
+91.0,20,Physics,2,115
+84.0,21,Physics,1,116
+71.0,18,Physics,1,117
+49.0,20,Physics,1,118
+78.0,20,Physics,1,119
+81.0,21,Physics,2,120
+87.0,18,Physics,1,121
+0.0,18,Physics,1,122
+81.0,21,Physics,1,123
+41.0,19,Physics,1,124
+49.0,18,Physics,2,125
+91.0,20,Physics,1,126
+41.0,21,Physics,1,127
+71.0,20,Physics,1,128
+62.0,21,Physics,1,129
+71.0,18,Physics,2,130
+62.0,18,Physics,1,131
+71.0,20,Physics,1,132
+49.0,18,Physics,1,133
+81.0,18,Physics,1,134
+81.0,18,Physics,2,135
+61.0,21,Physics,1,136
+61.0,21,Physics,1,137
+87.0,20,Physics,1,138
+81.0,21,Physics,1,139
+88.0,21,Physics,2,140
+78.0,18,Physics,1,141
+91.0,20,Physics,1,142
+81.0,18,Physics,1,143
+62.0,18,Physics,1,144
+84.0,21,Physics,2,145
+78.0,20,Physics,1,146
+49.0,18,Physics,1,147
+84.0,19,Physics,1,148
+41.0,18,Physics,1,149
+61.0,21,Physics,2,150
+91.0,18,Physics,1,151
+27.0,18,Physics,1,152
+62.0,18,Physics,1,153
+41.0,19,Physics,1,154
+49.0,18,Physics,2,155
+41.0,19,Physics,1,156
+49.0,18,Physics,1,157
+87.0,18,Physics,1,158
+81.0,19,Physics,1,159
+49.0,18,Physics,2,160
+84.0,18,Physics,1,161
+81.0,18,Physics,1,162
+78.0,18,Physics,1,163
+81.0,19,Physics,1,164
+41.0,18,Physics,2,165
+78.0,20,Physics,1,166
+87.0,18,Physics,1,167
+61.0,19,Physics,1,168
+61.0,19,Physics,1,169
+71.0,18,Physics,2,170
+84.0,18,Physics,1,171
+61.0,18,Physics,1,172
+49.0,20,Physics,1,173
+84.0,19,Physics,1,174
+41.0,19,Physics,2,175
+91.0,18,Physics,1,176
+71.0,18,Physics,1,177
+49.0,20,Physics,1,178
+49.0,18,Physics,1,179
+91.0,18,Physics,2,180
+91.0,20,Physics,1,181
+81.0,19,Physics,1,182
+84.0,19,Physics,1,183
+84.0,19,Physics,1,184
+91.0,20,Physics,2,185
+71.0,20,Physics,1,186
+71.0,20,Physics,1,187
+91.0,20,Physics,1,188
+87.0,20,Physics,1,189
+78.0,18,Physics,2,190
+81.0,19,Physics,1,191
+87.0,18,Physics,1,192
+81.0,19,Physics,1,193
+81.0,21,Physics,1,194
+87.0,20,Physics,2,195
+87.0,18,Physics,1,196
+81.0,21,Physics,1,197
+91.0,20,Physics,1,198
+84.0,21,Physics,1,199
+49.0,18,Physics,2,200
+62.0,18,Physics,1,201
+87.0,20,Physics,1,202
+41.0,19,Physics,1,203
+81.0,19,Physics,1,204
+78.0,18,Physics,2,205
+62.0,19,Physics,1,206
+71.0,20,Physics,1,207
+71.0,18,Physics,1,208
+91.0,18,Physics,1,209
+62.0,19,Physics,2,210
+62.0,21,Physics,1,211
+84.0,19,Physics,1,212
+84.0,19,Physics,1,213
+71.0,18,Physics,1,214
+62.0,19,Physics,2,215
+69.0,19,Physics,1,216
+78.0,20,Physics,1,217
+78.0,18,Physics,1,218
+41.0,19,Physics,1,219
+91.0,18,Physics,2,220
+62.0,19,Physics,1,221
+81.0,21,Physics,1,222
+78.0,18,Physics,1,223
+87.0,18,Physics,1,224
+81.0,21,Physics,2,225
+91.0,20,Physics,1,226
+49.0,20,Physics,1,227
+87.0,20,Physics,1,228
+41.0,19,Physics,1,229
+61.0,18,Physics,2,230
+71.0,20,Physics,1,231
+87.0,18,Physics,1,232
+49.0,20,Physics,1,233
+49.0,18,Physics,1,234
+49.0,18,Physics,2,235
+91.0,18,Physics,1,236
+71.0,20,Physics,1,237
+91.0,20,Physics,1,238
+78.0,18,Physics,1,239
+49.0,18,Physics,2,240
+91.0,18,Physics,1,241
+71.0,20,Physics,1,242
+62.0,18,Physics,1,243
+87.0,20,Physics,1,244
+87.0,20,Physics,2,245
+81.0,18,Physics,1,246
+71.0,20,Physics,1,247
+62.0,18,Physics,1,248
+71.0,20,Physics,1,249
+84.0,19,Physics,2,250
+84.0,18,Physics,1,251
+78.0,20,Physics,1,252
+61.0,18,Physics,1,253
+41.0,19,Physics,1,254
+81.0,18,Physics,2,255
+61.0,19,Physics,1,256
+71.0,20,Physics,1,257
+71.0,18,Physics,1,258
+49.0,20,Physics,1,259
+41.0,18,Physics,2,260
+87.0,18,Physics,1,261
+91.0,18,Physics,1,262
+91.0,18,Physics,1,263
+78.0,20,Physics,1,264
+49.0,18,Physics,2,265
+62.0,21,Physics,1,266
+41.0,19,Physics,1,267
+78.0,20,Physics,1,268
+61.0,19,Physics,1,269
+61.0,19,Physics,2,270
+84.0,21,Physics,1,271
+78.0,20,Physics,1,272
+91.0,18,Physics,1,273
+49.0,20,Physics,1,274
+87.0,18,Physics,2,275
+61.0,19,Physics,1,276
+61.0,19,Physics,1,277
+87.0,18,Physics,1,278
+62.0,18,Physics,1,279
+61.0,19,Physics,2,280
+41.0,19,Physics,1,281
+87.0,20,Physics,1,282
+41.0,21,Physics,1,283
+49.0,20,Physics,1,284
+71.0,18,Physics,2,285
+49.0,18,Physics,1,286
+91.0,18,Physics,1,287
+91.0,18,Physics,1,288
+81.0,19,Physics,1,289
+87.0,20,Physics,2,290
+62.0,19,Physics,1,291
+91.0,20,Physics,1,292
+84.0,19,Physics,1,293
+81.0,19,Physics,1,294
+62.0,18,Physics,2,295
+91.0,20,Physics,1,296
+87.0,18,Physics,1,297
+91.0,20,Physics,1,298
+81.0,18,Physics,1,299
+87.0,18,Physics,2,300
+60.0,19,Physics,1,301
+49.0,18,Physics,1,302
+81.0,19,Physics,1,303
+62.0,21,Physics,1,304
+49.0,20,Physics,2,305
+78.0,20,Physics,1,306
+71.0,18,Physics,1,307
+71.0,18,Physics,1,308
+60.0,19,Physics,1,309
+84.0,19,Physics,2,310
+87.0,20,Physics,1,311
+71.0,18,Physics,1,312
+62.0,21,Physics,1,313
+78.0,18,Physics,1,314
+41.0,21,Physics,2,315
+62.0,19,Physics,1,316
+62.0,19,Physics,1,317
+87.0,20,Physics,1,318
+62.0,19,Physics,1,319
+71.0,18,Physics,2,320
+87.0,20,Physics,1,321
+41.0,18,Physics,1,322
+71.0,18,Physics,1,323
+71.0,20,Physics,1,324
+61.0,21,Physics,2,325
+62.0,19,Physics,1,326
+81.0,19,Physics,1,327
+61.0,21,Physics,1,328
+91.0,20,Physics,1,329
+91.0,18,Physics,2,330
+91.0,18,Physics,1,331
+49.0,20,Physics,1,332
+62.0,19,Physics,1,333
+62.0,18,Physics,1,334
+49.0,20,Physics,2,335
+91.0,20,Physics,1,336
+87.0,20,Physics,1,337
+61.0,19,Physics,1,338
+84.0,18,Physics,1,339
+84.0,21,Physics,2,340
+61.0,19,Physics,1,341
+62.0,19,Physics,1,342
+62.0,21,Physics,1,343
+41.0,18,Physics,1,344
+84.0,21,Physics,2,345
+91.0,20,Physics,1,346
+62.0,19,Physics,1,347
+87.0,18,Physics,1,348
+81.0,19,Physics,1,349
+61.0,19,Physics,2,350
+71.0,18,Physics,1,351
+27.0,18,Physics,1,352
+61.0,18,Physics,1,353
+91.0,18,Physics,1,354
+78.0,20,Physics,2,355
+78.0,18,Physics,1,356
+61.0,18,Physics,1,357
+84.0,21,Physics,1,358
+71.0,18,Physics,1,359
+41.0,21,Physics,2,360
+41.0,18,Physics,1,361
+71.0,20,Physics,1,362
+84.0,19,Physics,1,363
+81.0,19,Physics,1,364
+62.0,19,Physics,2,365
+62.0,18,Physics,1,366
+71.0,20,Physics,1,367
+71.0,20,Physics,1,368
+41.0,19,Physics,1,369
+87.0,20,Physics,2,370
+87.0,18,Physics,1,371
+78.0,18,Physics,1,372
+71.0,20,Physics,1,373
+87.0,20,Physics,1,374
+84.0,19,Physics,2,375
+84.0,21,Physics,1,376
+62.0,19,Physics,1,377
+91.0,18,Physics,1,378
+41.0,18,Physics,1,379
+49.0,20,Physics,2,380
+87.0,20,Physics,1,381
+71.0,18,Physics,1,382
+62.0,21,Physics,1,383
+62.0,19,Physics,1,384
+87.0,20,Physics,2,385
+81.0,18,Physics,1,386
+78.0,20,Physics,1,387
+62.0,19,Physics,1,388
+71.0,18,Physics,1,389
+87.0,18,Physics,2,390
+41.0,19,Physics,1,391
+78.0,20,Physics,1,392
+87.0,20,Physics,1,393
+71.0,18,Physics,1,394
+78.0,20,Physics,2,395
+91.0,20,Physics,1,396
+84.0,19,Physics,1,397
+61.0,19,Physics,1,398
+81.0,21,Physics,1,399
+87.0,18,Physics,2,400
+87.0,20,Physics,1,401
+49.0,20,Physics,1,402
+91.0,20,Physics,1,403
+91.0,18,Physics,1,404
+49.0,18,Physics,2,405
+41.0,19,Physics,1,406
+71.0,18,Physics,1,407
+61.0,18,Physics,1,408
+41.0,19,Physics,1,409
+78.0,18,Physics,2,410
+78.0,18,Physics,1,411
+62.0,19,Physics,1,412
+61.0,21,Physics,1,413
+62.0,19,Physics,1,414
+91.0,18,Physics,2,415
+41.0,21,Physics,1,416
+61.0,19,Physics,1,417
+57.0,19,Physics,1,418
+61.0,19,Physics,1,419
+81.0,18,Physics,2,420
+71.0,18,Physics,1,421
+78.0,20,Physics,1,422
+78.0,20,Physics,1,423
+62.0,21,Physics,1,424
+81.0,19,Physics,2,425
+71.0,18,Physics,1,426
+87.0,20,Physics,1,427
+61.0,19,Physics,1,428
+78.0,20,Physics,1,429
+41.0,18,Physics,2,430
+91.0,20,Physics,1,431
+84.0,18,Physics,1,432
+49.0,18,Physics,1,433
+78.0,18,Physics,1,434
+62.0,19,Physics,2,435
+87.0,20,Physics,1,436
+41.0,18,Physics,1,437
+49.0,18,Physics,1,438
+81.0,19,Physics,1,439
+87.0,18,Physics,2,440
+49.0,18,Physics,1,441
+84.0,19,Physics,1,442
+81.0,18,Physics,1,443
+41.0,19,Physics,1,444
+49.0,18,Physics,2,445
+71.0,20,Physics,1,446
+81.0,19,Physics,1,447
+62.0,19,Physics,1,448
+78.0,20,Physics,1,449
+81.0,19,Physics,2,450
+78.0,20,Physics,1,451
+78.0,18,Physics,1,452
+91.0,18,Physics,1,453
+81.0,19,Physics,1,454
+71.0,20,Physics,2,455
+87.0,20,Physics,1,456
+91.0,18,Physics,1,457
+91.0,20,Physics,1,458
+49.0,18,Physics,1,459
+81.0,18,Physics,2,460
+91.0,20,Physics,1,461
+61.0,19,Physics,1,462
+87.0,20,Physics,1,463
+71.0,20,Physics,1,464
+45.0,21,Physics,2,465
+49.0,20,Physics,1,466
+84.0,21,Physics,1,467
+62.0,18,Physics,1,468
+49.0,18,Physics,1,469
+78.0,18,Physics,2,470
+78.0,18,Physics,1,471
+49.0,20,Physics,1,472
+81.0,21,Physics,1,473
+41.0,21,Physics,1,474
+87.0,20,Physics,2,475
+78.0,20,Physics,1,476
+41.0,19,Physics,1,477
+71.0,18,Physics,1,478
+91.0,18,Physics,1,479
+84.0,21,Physics,2,480
+84.0,19,Physics,1,481
+81.0,18,Physics,1,482
+78.0,20,Physics,1,483
+62.0,19,Physics,1,484
+84.0,18,Physics,2,485
+87.0,20,Physics,1,486
+91.0,20,Physics,1,487
+71.0,18,Physics,1,488
+71.0,18,Physics,1,489
+49.0,20,Physics,2,490
+84.0,18,Physics,1,491
+78.0,20,Physics,1,492
+84.0,19,Physics,1,493
+87.0,20,Physics,1,494
+71.0,18,Physics,2,495
+71.0,18,Physics,1,496
+87.0,18,Physics,1,497
+81.0,19,Physics,1,498
+84.0,18,Physics,1,499
+49.0,18,Physics,2,500
+49.0,20,Physics,1,501
+61.0,18,Physics,1,502
+87.0,18,Physics,1,503
+87.0,18,Physics,1,504
+41.0,19,Physics,2,505
+62.0,21,Physics,1,506
+62.0,21,Physics,1,507
+49.0,18,Physics,1,508
+61.0,19,Physics,1,509
+49.0,18,Physics,2,510
+87.0,18,Physics,1,511
+78.0,20,Physics,1,512
+41.0,19,Physics,1,513
+61.0,19,Physics,1,514
+61.0,18,Physics,2,515
+49.0,18,Physics,1,516
+78.0,18,Physics,1,517
+84.0,19,Physics,1,518
+91.0,20,Physics,1,519
+60.0,19,Physics,2,520
+78.0,20,Physics,1,521
+41.0,19,Physics,1,522
+49.0,18,Physics,1,523
+41.0,21,Physics,1,524
+81.0,19,Physics,2,525
+87.0,18,Physics,1,526
+71.0,20,Physics,1,527
+84.0,18,Physics,1,528
+41.0,19,Physics,1,529
+84.0,19,Physics,2,530
+41.0,18,Physics,1,531
+61.0,21,Physics,1,532
+41.0,21,Physics,1,533
+84.0,21,Physics,1,534
+91.0,20,Physics,2,535
+91.0,20,Physics,1,536
+78.0,18,Physics,1,537
+61.0,19,Physics,1,538
+87.0,18,Physics,1,539
+61.0,18,Physics,2,540
+62.0,21,Physics,1,541
+91.0,18,Physics,1,542
+78.0,18,Physics,1,543
+71.0,20,Physics,1,544
+78.0,20,Physics,2,545
+81.0,19,Physics,1,546
+61.0,19,Physics,1,547
+84.0,18,Physics,1,548
+81.0,19,Physics,1,549
+78.0,20,Physics,2,550
+78.0,18,Physics,1,551
+87.0,18,Physics,1,552
+81.0,19,Physics,1,553
+61.0,21,Physics,1,554
+62.0,19,Physics,2,555
+78.0,18,Physics,1,556
+62.0,19,Physics,1,557
+61.0,19,Physics,1,558
+87.0,18,Physics,1,559
+91.0,20,Physics,2,560
+62.0,18,Physics,1,561
+49.0,20,Physics,1,562
+61.0,19,Physics,1,563
+41.0,18,Physics,1,564
+61.0,21,Physics,2,565
+61.0,18,Physics,1,566
+62.0,21,Physics,1,567
+49.0,18,Physics,1,568
+91.0,20,Physics,1,569
+61.0,19,Physics,2,570
+41.0,19,Physics,1,571
+78.0,20,Physics,1,572
+49.0,18,Physics,1,573
+81.0,18,Physics,1,574
+71.0,20,Physics,2,575
+81.0,21,Physics,1,576
+71.0,18,Physics,1,577
+81.0,19,Physics,1,578
+78.0,18,Physics,1,579
+61.0,21,Physics,2,580
+91.0,18,Physics,1,581
+87.0,20,Physics,1,582
+41.0,21,Physics,1,583
+91.0,18,Physics,1,584
+87.0,18,Physics,2,585
+49.0,20,Physics,1,586
+81.0,19,Physics,1,587
+41.0,18,Physics,1,588
+84.0,19,Physics,1,589
+78.0,20,Physics,2,590
+61.0,19,Physics,1,591
+84.0,19,Physics,1,592
+87.0,20,Physics,1,593
+84.0,19,Physics,1,594
+41.0,19,Physics,2,595
+71.0,18,Physics,1,596
+49.0,20,Physics,1,597
+71.0,20,Physics,1,598
+69.0,19,Physics,1,599
