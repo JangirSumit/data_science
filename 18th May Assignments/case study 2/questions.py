@@ -46,4 +46,11 @@ print(merged_df_filter_cols)
 
 
 # 5. Change Sex(M/F) Columnto 1/2 for further analysis
+
+merged_df_filter_cols["Sex"] = [1 if sex ==
+                                "M" else 2 for sex in merged_df_filter_cols["Sex"]]
+print(merged_df_filter_cols)
+
+
+# 6. Change Sex(M/F) Columnto 1/2 for further analysis
 merged_df_filter_cols.to_csv("ScoreFinal.csv")
