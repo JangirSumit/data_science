@@ -1,12 +1,12 @@
-# 1. Extract data from the givenSalaryGender CSV file and store the data from each column in a separate NumPy array
+# 1. Extract data from the givenSalaryGender CSV file and store the data
+# from each column in a separate NumPy array
 
 import numpy as np
+import pandas as pd
 
-csv_data = np.genfromtxt('SalaryGender.csv', delimiter=',', skip_header=1)
+df_salary_gender = pd.read_csv("SalaryGender.csv")
 
-salary = csv_data[0:, 0]
-gender = csv_data[0:, 1]
-age = csv_data[0:, 2]
-phd = csv_data[0:, 3]
-
-print(phd)
+salary = np.array(df_salary_gender["Salary"])
+gender = np.array(df_salary_gender["Gender"])
+age = np.array(df_salary_gender["Age"])
+phd = np.array(df_salary_gender["PhD"])
