@@ -1,0 +1,600 @@
+Name,Score,Age,Ethinicity,Subject,Sex,ID
+AI-KYUNG CHUNG,88,18,White American,Maths,M,1
+ALAN HARVEY,85,19,European American,Maths,M,2
+ALAN REYNAUD,45,19,European American,Maths,M,3
+ALBERT CENDANA,82,18,White American,Maths,M,4
+ALBERT HOLT JR,82,18,White American,Maths,F,5
+ALBERT PARDINI,95,20,White American,Maths,M,6
+ALBERT YU,95,18,White American,Maths,M,7
+ALBERTO PEDRUCO,65,19,White American,Maths,M,8
+ALEC BALMY,88,18,Hispanic,Maths,M,9
+ALEETA VAN RUNKLE,88,19,Hispanic,Maths,F,10
+ALEX TSE,53,20,White American,Maths,M,11
+ALEXANDER CHEN,53,20,White American,Maths,M,12
+ALEXANDER KWAN,66,19,White American,Maths,M,13
+ALEXIS GOLDNER,88,18,White American,Maths,M,14
+ALLEN TURPIN,88,21,White American,Maths,F,15
+ALSON LEE,82,20,White American,Maths,M,16
+ALVIN LAU,31,18,White American,Maths,M,17
+AMEN CHOW,95,18,European American,Maths,M,18
+AMPARO RODRIGUEZ,91,18,Hispanic,Maths,M,19
+AMY BROWN,66,18,White American,Maths,F,20
+AMY HART,82,18,Hispanic,Maths,M,21
+ANA SAMPERA,66,18,European American,Maths,M,22
+ANDRE ANDREWS SR,75,18,White American,Maths,M,23
+ANDRE WILLIAMS,65,19,Hispanic,Maths,M,24
+ANDREW LOGAN,91,20,European American,Maths,F,25
+ANDREW SAITZ,91,18,White American,Maths,M,26
+ANDY ZANOFF,53,20,Hispanic,Maths,M,27
+ANGELA PLATZER,91,20,European American,Maths,M,28
+ANN MANNIX,88,21,Hispanic,Maths,M,29
+ANNA BROWN,85,19,White American,Maths,F,30
+ANNE KRONENBERG,75,20,White American,Maths,M,31
+ANNETTE HOBRUCKER-PFEIFER,66,21,European American,Maths,M,32
+ANTHONY DUMONT,45,19,European American,Maths,M,33
+ANTHONY ROBINSON,66,18,European American,Maths,M,34
+ANTONIO FLORES,53,20,Hispanic,Maths,F,35
+ANTONIO PARRA,65,19,White American,Maths,M,36
+ANTONIO SANTIAGO,53,18,White American,Maths,M,37
+ARNIE LEE,75,20,White American,Maths,M,38
+ARNOLD CHOY,45,18,White American,Maths,M,39
+ARTHUR BORGES,66,19,White American,Maths,F,40
+ARTHUR KENNEY,75,20,European American,Maths,M,41
+ARTHUR STELLINI,95,20,African American,Maths,M,42
+ATTICA BOWDEN,65,21,White American,Maths,M,43
+BARBARA GARCIA,85,18,European American,Maths,M,44
+BARBARA HALE,82,20,European American,Maths,F,45
+BARBARA SCHULTHEIS,65,21,African American,Maths,M,46
+BARRY BLOOM,85,21,White American,Maths,M,47
+BENJAMIN ROSENFIELD,82,18,Hispanic,Maths,M,48
+BERGLIOTH MATHEWS,65,18,Hispanic,Maths,M,49
+BERT REYES,66,19,White American,Maths,F,50
+BOND YEE,82,18,European American,Maths,M,51
+BONNIE TAYLOR,88,19,White American,Maths,M,52
+BRADEN WOODS,,19,African American,Maths,M,53
+BRENDAN MCGORRIN,95,20,White American,Maths,M,54
+BRENDAN WARD,88,21,White American,Maths,F,55
+BRIAN DELAHUNTY,91,18,Hispanic,Maths,M,56
+BRIAN MURPHY,53,20,European American,Maths,M,57
+BRIAN PHILPOTT,75,20,White American,Maths,M,58
+BRODERICK TOPPS,75,20,White American,Maths,M,59
+BRONWYN GUNDOGDU,95,18,Hispanic,Maths,F,60
+BROOK MANCINELLI,88,19,White American,Maths,M,61
+BRYAN MAR,53,18,African American,Maths,M,62
+BRYAN RUBENSTEIN,82,20,White American,Maths,M,63
+BURK DELVENTHAL,82,18,White American,Maths,M,64
+C PETRUZZELLA,85,21,Hispanic,Maths,F,65
+CANTREZ TRIPLETT,45,21,White American,Maths,M,66
+CARL FABBRI,75,20,Hispanic,Maths,M,67
+CARL JEPSEN,66,21,Hispanic,Maths,M,68
+CARLOS GUTIERREZ,45,19,European American,Maths,M,69
+CATHERINE JAMES,75,20,White American,Maths,F,70
+CHAD LAW,53,20,White American,Maths,M,71
+CHARLES CRANE,65,21,White American,Maths,M,72
+CHARLES SCOTT,53,20,White American,Maths,M,73
+CHARLES STINSON,85,19,European American,Maths,M,74
+CHARLIE ORKES,82,18,Hispanic,Maths,F,75
+CHRIS VEIN,95,20,Hispanic,Maths,M,76
+CHRISTIANE HAYASHI,66,19,White American,Maths,M,77
+CHRISTINE WINKLER,53,20,White American,Maths,M,78
+CHRISTOPHER CHONG,65,18,White American,Maths,M,79
+CHRISTOPHER HAZEN,85,19,European American,Maths,F,80
+CHUTEH KOTAKE,88,19,European American,Maths,M,81
+CLEMENTINO AVILA II,95,18,White American,Maths,M,82
+CLYDE CHRISTOBAL,53,20,European American,Maths,M,83
+COLLEEN RILEY,45,19,Hispanic,Maths,M,84
+CRISTINA REYES,45,21,White American,Maths,F,85
+CROCE CASCIATO,85,18,White American,Maths,M,86
+CURTIS LUM,45,19,European American,Maths,M,87
+DALE CARNES,85,21,European American,Maths,M,88
+DAMON HART,45,18,White American,Maths,M,89
+DANIEL ARMENTA,45,21,African American,Maths,F,90
+DANIEL COX,85,19,Hispanic,Maths,M,91
+DANIEL CUNNINGHAM,88,19,White American,Maths,M,92
+DANIEL DEDET,85,19,White American,Maths,M,93
+DANIEL MAHONEY,91,18,White American,Maths,M,94
+DANIEL MOLLOY,65,19,African American,Maths,F,95
+DANIEL SCDORIS,75,18,White American,Maths,M,96
+DANIEL YONTS,88,19,White American,Maths,M,97
+DARCY KELLER,95,18,White American,Maths,M,98
+DARREN CHOY,65,21,European American,Maths,M,99
+DARRYL HUNTER,65,19,Hispanic,Maths,F,100
+DAVID BRIGGS,45,18,Hispanic,Maths,M,101
+DAVID FRANKLIN,53,20,African American,Maths,M,102
+DAVID HAWKINS,95,18,European American,Maths,M,103
+DAVID KUSHNER,66,21,White American,Maths,M,104
+DAVID LAZAR,82,18,European American,Maths,F,105
+DAVID OWEN,65,19,White American,Maths,M,106
+DAVID PFEIFER,45,21,European American,Maths,M,107
+DAVID SHINN,85,21,European American,Maths,M,108
+DAVID SULLIVAN,45,19,White American,Maths,M,109
+DAVID THOMPSON,85,21,White American,Maths,F,110
+DAVID ZWYER,65,21,European American,Maths,M,111
+DEBBIE TAM,85,18,White American,Maths,M,112
+DEBORAH BORNE,88,19,Hispanic,Maths,M,113
+DEBORAH JETER,45,19,White American,Maths,M,114
+DEBORAH LOGAN,95,20,European American,Maths,F,115
+DEBRA JOHNSON,88,21,White American,Maths,M,116
+DENIS JOYCE,75,18,European American,Maths,M,117
+DENIS OLEARY,53,20,White American,Maths,M,118
+DENISE BAILEY,82,20,European American,Maths,M,119
+DENISE NEWMAN,85,21,White American,Maths,F,120
+DENISE SCHMITT,91,18,European American,Maths,M,121
+DENNIS HERRERA,88,18,White American,Maths,M,122
+DENNIS MARTINEZ,85,21,White American,Maths,M,123
+DENNIS O'NEILL,45,19,European American,Maths,M,124
+DENNIS SUTTER,53,18,European American,Maths,F,125
+DEREK WING,95,20,White American,Maths,M,126
+DERIO DITO,45,21,White American,Maths,M,127
+DIANA GUEVARA,75,20,European American,Maths,M,128
+DOMINIC CELAYA,66,21,White American,Maths,M,129
+DONALD BRYANT,75,18,European American,Maths,F,130
+DONALD FIELDS,66,18,Hispanic,Maths,M,131
+DONALD MARGOLIS,75,20,Hispanic,Maths,M,132
+DONALDSON SHUMPERT,53,18,European American,Maths,M,133
+DONNA LEE,85,18,White American,Maths,M,134
+DONNA MEIXNER,85,18,Hispanic,Maths,F,135
+DONNIE HORNBUCKLE,65,21,European American,Maths,M,136
+DOUGLAS MCEACHERN,65,21,Hispanic,Maths,M,137
+DOUGLAS RIBA,91,20,White American,Maths,M,138
+DUSTIN NOVO,85,21,European American,Maths,M,139
+DWAYNE CURRY,45,21,White American,Maths,F,140
+EDGAR CALLEJAS,82,18,White American,Maths,M,141
+EDGAR GONZALEZ,95,20,Hispanic,Maths,M,142
+EDMUND DEA,85,18,Hispanic,Maths,M,143
+EDMUND VAIL,66,18,White American,Maths,M,144
+EDUARDO GONZALEZ,88,21,White American,Maths,F,145
+EDWARD CAMPBELL,82,20,Hispanic,Maths,M,146
+EDWARD CHEUNG,53,18,European American,Maths,M,147
+EDWARD CHU,88,19,Hispanic,Maths,M,148
+EDWARD DELCARLO,45,18,White American,Maths,M,149
+EDWARD DENNIS,65,21,White American,Maths,F,150
+EDWARD HARRINGTON,95,18,European American,Maths,M,151
+EDWARD REISKIN,31,18,White American,Maths,M,152
+EDWARD ROLAND,66,18,European American,Maths,M,153
+EDWIN LEE,45,19,White American,Maths,M,154
+EHRHARDT GROOTHOFF,53,18,White American,Maths,F,155
+ELAINE COLEMAN,45,19,White American,Maths,M,156
+ELISA RAMIREZ,53,18,European American,Maths,M,157
+ELIZABETH JOHNSON,91,18,European American,Maths,M,158
+ELLEN APOLINARIO,85,19,European American,Maths,M,159
+ELLEN LEVIN,53,18,European American,Maths,F,160
+ELLEN MOFFATT,88,18,White American,Maths,M,161
+ERIBERTO ISON,88,18,White American,Maths,M,162
+ERIC CRANSTON,82,18,Hispanic,Maths,M,163
+ERIKA HOO,85,19,White American,Maths,M,164
+ERNEST JOHNSON,45,18,European American,Maths,F,165
+EUGENE GALEANO,82,20,Hispanic,Maths,M,166
+EVETTE GEER-STEVENS,91,18,European American,Maths,M,167
+FE HORTINELA,65,19,White American,Maths,M,168
+FERDINAND CADELINA,65,19,White American,Maths,M,169
+FERDINAND MENESES,75,18,Hispanic,Maths,F,170
+FERNANDO DEALBA,88,18,European American,Maths,M,171
+FLAVIA BAYATI,65,18,White American,Maths,M,172
+FLOYD ROLLINS,53,20,White American,Maths,M,173
+FRANK CARDINALE,88,19,White American,Maths,M,174
+FRANK HSIEH,45,19,Hispanic,Maths,F,175
+FRANK KOSTA,95,18,White American,Maths,M,176
+FREDERICK BINKLEY,75,18,African American,Maths,M,177
+FUAD SWEISS,53,20,Hispanic,Maths,M,178
+GARRET TOM,53,18,Hispanic,Maths,M,179
+GARY AMELIO,95,18,European American,Maths,F,180
+GARY CONSTANTINE,95,20,White American,Maths,M,181
+GARY JIMENEZ,85,19,White American,Maths,M,182
+GAVIN ESTUPINIAN,88,19,African American,Maths,M,183
+GEORGE FOURAS,88,19,Hispanic,Maths,M,184
+GEORGE GARCIA,95,20,White American,Maths,F,185
+GEORGE GASCON,75,20,European American,Maths,M,186
+GEORGE LYSENKO,75,20,Hispanic,Maths,M,187
+GERALD DARCY,95,20,European American,Maths,M,188
+GERALD MANSUR JR,91,20,European American,Maths,M,189
+GERARDO PINTO,82,18,White American,Maths,F,190
+GHODSI DAVARY,85,19,White American,Maths,M,191
+GLEN KOJIMOTO,91,18,African American,Maths,M,192
+GLENN KIRCHER,85,19,European American,Maths,M,193
+GLENN MAR,85,21,Hispanic,Maths,M,194
+GLENN ORTIZ-SCHULDT,91,20,African American,Maths,F,195
+GLORIA GARCIA ORME,91,18,European American,Maths,M,196
+GRAD GREEN,85,21,White American,Maths,M,197
+GREGORY CACHARELIS,95,20,White American,Maths,M,198
+GREGORY CORRALES,88,21,European American,Maths,M,199
+GREGORY MAR,53,18,White American,Maths,F,200
+GREGORY MCFARLAND,66,18,Hispanic,Maths,M,201
+GREGORY STANGLAND,91,20,White American,Maths,M,202
+GREGORY SUHR,45,19,White American,Maths,M,203
+GUY GOODWIN,85,19,Hispanic,Maths,M,204
+HAGOP HAJIAN,82,18,European American,Maths,F,205
+HANS VIGIL,66,19,Hispanic,Maths,M,206
+HARLAN KELLY-JR,75,20,European American,Maths,M,207
+HAROLD BYRD,75,18,White American,Maths,M,208
+HARRY PINKARD,95,18,White American,Maths,M,209
+HARVEY ELWIN,66,19,White American,Maths,F,210
+HENRY LARKIN,66,21,African American,Maths,M,211
+HERALIO SERRANO,88,19,White American,Maths,M,212
+HERBERT CARNEY,88,19,Hispanic,Maths,M,213
+HERBERT HENLEY,75,18,White American,Maths,M,214
+IRENE SUNG,66,19,White American,Maths,F,215
+IVAR SATERO,88,19,European American,Maths,M,216
+JACK CHOW,82,20,Hispanic,Maths,M,217
+JACKSON WONG,82,18,White American,Maths,M,218
+JALAL AINEB,45,19,White American,Maths,M,219
+JAMES BLAKE,95,18,White American,Maths,F,220
+JAMES BOSCH,66,19,Hispanic,Maths,M,221
+JAMES CALONICO,85,21,European American,Maths,M,222
+JAMES DEIGNAN,82,18,White American,Maths,M,223
+JAMES DUDLEY,91,18,European American,Maths,M,224
+JAMES EMERY,85,21,Hispanic,Maths,F,225
+JAMES FAZACKERLEY,95,20,White American,Maths,M,226
+JAMES FLORES,53,20,Hispanic,Maths,M,227
+JAMES HARRIGAN,91,20,European American,Maths,M,228
+JAMES MILLER,45,19,White American,Maths,M,229
+JAMES SPILLANE,65,18,European American,Maths,F,230
+JAMES VANNUCCHI,75,20,White American,Maths,M,231
+JANET HINES,91,18,White American,Maths,M,232
+JASON PAW,53,20,European American,Maths,M,233
+JAY HUISH,53,18,Hispanic,Maths,M,234
+JAY KLOO,53,18,White American,Maths,F,235
+JEFF COLUMBINI,95,18,Hispanic,Maths,M,236
+JEFF IWASAKI,75,20,White American,Maths,M,237
+JEFFREY ADACHI,95,20,Hispanic,Maths,M,238
+JEFFREY BARDEN,82,18,White American,Maths,M,239
+JEFFREY MYERS,53,18,White American,Maths,F,240
+JENNIFER DEBERRY,95,18,European American,Maths,M,241
+JENNIFER MATZ,75,20,European American,Maths,M,242
+JERRY COLEMAN,66,18,Hispanic,Maths,M,243
+JESSE SMITH,91,20,White American,Maths,M,244
+JESUS PENA,91,20,European American,Maths,F,245
+JILL LECOUNT,85,18,Hispanic,Maths,M,246
+JIM GIANG,75,20,African American,Maths,M,247
+JIM HALL III,66,18,White American,Maths,M,248
+JIMMIE LEW,75,20,White American,Maths,M,249
+JOANNE HAYES-WHITE,88,19,European American,Maths,F,250
+JOANNE HOEPER,88,18,African American,Maths,M,251
+JOHN BARKER,82,20,European American,Maths,M,252
+JOHN BRAGAGNOLO,65,18,European American,Maths,M,253
+JOHN BROWN,45,19,African American,Maths,M,254
+JOHN BUCHANAN JR,85,18,European American,Maths,F,255
+JOHN CAVANAUGH,65,19,White American,Maths,M,256
+JOHN CREMEN,75,20,White American,Maths,M,257
+JOHN EHRLICH,75,18,European American,Maths,M,258
+JOHN FEENEY,53,20,White American,Maths,M,259
+JOHN FLORES,45,18,White American,Maths,F,260
+JOHN GARRITY,91,18,White American,Maths,M,261
+JOHN GOLDBERG,95,18,White American,Maths,M,262
+JOHN HALEY JR,95,18,Hispanic,Maths,M,263
+JOHN HANLEY,82,20,White American,Maths,M,264
+JOHN HART,53,18,White American,Maths,F,265
+JOHN HICKEY,66,21,European American,Maths,M,266
+JOHN KOSTA,45,19,White American,Maths,M,267
+JOHN LOFTUS,82,20,White American,Maths,M,268
+JOHN MARTIN,65,19,European American,Maths,M,269
+JOHN MURPHY,65,19,Hispanic,Maths,F,270
+JOHN MURPHY,88,21,Hispanic,Maths,M,271
+JOHN NESTOR,82,20,White American,Maths,M,272
+JOHN RAHAIM,95,18,Hispanic,Maths,M,273
+JOHN ROCCO,53,20,White American,Maths,M,274
+JOHN SANFORD JR,91,18,White American,Maths,F,275
+JOHN STANFIELD,65,19,White American,Maths,M,276
+JOHN TURSI,65,19,African American,Maths,M,277
+JOHN VAN KOLL,91,18,White American,Maths,M,278
+JOHNSON YOU,66,18,White American,Maths,M,279
+JON WALTON,65,19,European American,Maths,F,280
+JONATHAN BAXTER,45,19,European American,Maths,M,281
+JONES WONG,91,20,White American,Maths,M,282
+JOSE CASTILLO,45,21,White American,Maths,M,283
+JOSE VELO,53,20,Hispanic,Maths,M,284
+JOSEPH CUFF,75,18,Hispanic,Maths,F,285
+JOSEPH DRISCOLL,53,18,White American,Maths,M,286
+JOSEPH FISCHER-III,95,18,White American,Maths,M,287
+JOSEPH FONG,95,18,White American,Maths,M,288
+JOSEPH MAYERS,85,19,European American,Maths,M,289
+JOSEPH WOODS,91,20,White American,Maths,F,290
+JOSEPHINE RAPADAS,66,19,European American,Maths,M,291
+JOSHUA BAMBERGER,95,20,European American,Maths,M,292
+JOSHUA KUMLI,88,19,European American,Maths,M,293
+JUDY MELINEK,85,19,White American,Maths,M,294
+JULIA M C FRIEDLANDER,66,18,European American,Maths,F,295
+JULIE LABONTE,95,20,European American,Maths,M,296
+JULIE VAN NOSTERN,91,18,African American,Maths,M,297
+JULIET ELLIS,95,20,European American,Maths,M,298
+JULIO ESCOBAR,85,18,White American,Maths,M,299
+JUNE CRAVET,91,18,Hispanic,Maths,F,300
+KANDACE BENDER,64,19,White American,Maths,M,301
+KAREN ROYE,53,18,White American,Maths,M,302
+KARL JURGENSON,85,19,European American,Maths,M,303
+KATE HERRMAN STACY,66,21,Hispanic,Maths,M,304
+KATHLEEN MAXWELL,53,20,African American,Maths,F,305
+KATHRYN BALLOU,82,20,Hispanic,Maths,M,306
+KATHRYN FOWLER,75,18,European American,Maths,M,307
+KATHRYN HOW,75,18,White American,Maths,M,308
+KEITH SANFORD,64,19,European American,Maths,M,309
+KEN YEE,88,19,European American,Maths,F,310
+KENNETH CORDERO,91,20,Hispanic,Maths,M,311
+KENNETH SMITH,75,18,White American,Maths,M,312
+KEVIN BARRY,66,21,European American,Maths,M,313
+KEVIN BURKE,82,18,White American,Maths,M,314
+KEVIN CASHMAN,45,21,Hispanic,Maths,F,315
+KEVIN JONES,66,19,Hispanic,Maths,M,316
+KEVIN KUHN,66,19,Hispanic,Maths,M,317
+KEVIN LABANOWSKI,91,20,White American,Maths,M,318
+KEVIN SMITH,66,19,White American,Maths,M,319
+KEVIN TAYLOR,75,18,White American,Maths,F,320
+KHAIRUL ALI,91,20,White American,Maths,M,321
+KHOA TRINH,45,18,Hispanic,Maths,M,322
+KIMIKO BURTON,75,18,White American,Maths,M,323
+KIRK RICHARDSON,75,20,European American,Maths,M,324
+KIRSTEN BARASH,65,21,European American,Maths,F,325
+L MILITELLO,66,19,White American,Maths,M,326
+LAN LEE,85,19,White American,Maths,M,327
+LARRY MITCHELL,65,21,White American,Maths,M,328
+LAUIFI SEUMAALA,95,20,White American,Maths,M,329
+LAURENCE RAMLAN,95,18,European American,Maths,F,330
+LAWRENCE FREED,95,18,Hispanic,Maths,M,331
+LAWRENCE LEE,53,20,White American,Maths,M,332
+LAWRENCE NICHOLLS,66,19,Hispanic,Maths,M,333
+LENETTE THOMPSON,66,18,Hispanic,Maths,M,334
+LENORA JACOBS,53,20,European American,Maths,F,335
+LEON KUO,95,20,Hispanic,Maths,M,336
+LEON WHITE,91,20,White American,Maths,M,337
+LEONARD BROBERG,65,19,Hispanic,Maths,M,338
+LEONARDO FERMIN,88,18,White American,Maths,M,339
+LESLIE DUBBIN,88,21,White American,Maths,F,340
+LINDA ROSS,65,19,European American,Maths,M,341
+LISA GOLDEN,66,19,African American,Maths,M,342
+LISA HOFFMANN,66,21,White American,Maths,M,343
+LISETTE ADAMS,45,18,White American,Maths,M,344
+LORI BORGHI,88,21,European American,Maths,F,345
+LORRIE KALOS,95,20,White American,Maths,M,346
+LOUIS CASSANEGO,66,19,European American,Maths,M,347
+LUIS HERRERA,91,18,Hispanic,Maths,M,348
+LUIS IBARRA-RIVERA,85,19,White American,Maths,M,349
+LYN TOMIOKA,65,19,White American,Maths,F,350
+MADONNA VALENCIA,75,18,White American,Maths,M,351
+MAGALY SAADE,31,18,European American,Maths,M,352
+MAMI SUZUKI-VIDALON,65,18,White American,Maths,M,353
+MANUEL PEGUEROS,95,18,Hispanic,Maths,M,354
+MARGARET CALLAHAN,82,20,White American,Maths,F,355
+MARGARET HANNAFORD,82,18,White American,Maths,M,356
+MARGARET RYKOWSKI,65,18,Hispanic,Maths,M,357
+MARIA BEE,88,21,White American,Maths,M,358
+MARISA MORET,75,18,White American,Maths,M,359
+MARK CASTAGNOLA,45,21,White American,Maths,F,360
+MARK GAMBLE,45,18,Hispanic,Maths,M,361
+MARK GONZALES,75,20,African American,Maths,M,362
+MARK HERNANDEZ,88,19,European American,Maths,M,363
+MARK JOHNSON,85,19,White American,Maths,M,364
+MARK KEARNEY,66,19,White American,Maths,F,365
+MARK SENORES,66,18,European American,Maths,M,366
+MARK SMITH,75,20,Hispanic,Maths,M,367
+MARK SOLOMON,75,20,European American,Maths,M,368
+MARTIEN VERHAEG,45,19,European American,Maths,M,369
+MARTIN BELTRAN,91,20,White American,Maths,F,370
+MARTIN GRAN,91,18,European American,Maths,M,371
+MARTIN HALLORAN,82,18,Hispanic,Maths,M,372
+MARTIN LALOR JR,75,20,White American,Maths,M,373
+MARTY ROSS,91,20,Hispanic,Maths,M,374
+MARY TSE,88,19,European American,Maths,F,375
+MASAE KAWAMURA,88,21,White American,Maths,M,376
+MATTHEW CANNON,66,19,White American,Maths,M,377
+MATTHEW MCNAUGHTON,95,18,White American,Maths,M,378
+MATTHEW ROTHSCHILD,45,18,White American,Maths,M,379
+MELANY BRANDON,53,20,White American,Maths,F,380
+MELISSA LERMA,91,20,European American,Maths,M,381
+MERCEDES GERMAN,75,18,European American,Maths,M,382
+MICHAEL AHERN,66,21,Hispanic,Maths,M,383
+MICHAEL BELLO,66,19,White American,Maths,M,384
+MICHAEL BIEL,91,20,White American,Maths,F,385
+MICHAEL BROWNE,85,18,White American,Maths,M,386
+MICHAEL BRYANT,82,20,European American,Maths,M,387
+MICHAEL CARLIN,66,19,White American,Maths,M,388
+MICHAEL CASTAGNOLA,75,18,White American,Maths,M,389
+MICHAEL COLEMAN,91,18,European American,Maths,F,390
+MICHAEL CONNOLLY,45,19,White American,Maths,M,391
+MICHAEL DALY,,20,White American,Maths,M,392
+MICHAEL DELANE,91,20,White American,Maths,M,393
+MICHAEL DRENNAN,75,18,White American,Maths,M,394
+MICHAEL DUDOROFF,82,20,European American,Maths,F,395
+MICHAEL ELLIS,95,20,European American,Maths,M,396
+MICHAEL GONZALES,88,19,White American,Maths,M,397
+MICHAEL HENNESSEY,65,19,White American,Maths,M,398
+MICHAEL KEARNEY,85,21,Hispanic,Maths,M,399
+MICHAEL MORRIS,91,18,White American,Maths,F,400
+MICHAEL MOYNIHAN,91,20,Hispanic,Maths,M,401
+MICHAEL PHILPOTT,53,20,Hispanic,Maths,M,402
+MICHAEL QUAN,95,20,White American,Maths,M,403
+MICHAEL ROLOVICH,95,18,African American,Maths,M,404
+MICHAEL SIMMONS,53,18,Hispanic,Maths,F,405
+MICHAEL SMITH,45,19,White American,Maths,M,406
+MICHAEL THOMPSON,75,18,White American,Maths,M,407
+MICHAEL THOMPSON,65,18,White American,Maths,M,408
+MICHAEL WALSH,45,19,European American,Maths,M,409
+MICHAEL WHOOLEY,82,18,European American,Maths,F,410
+MIKAIL ALI,82,18,Hispanic,Maths,M,411
+MIKE BREILING,66,19,European American,Maths,M,412
+MILTON ESTES,65,21,White American,Maths,M,413
+MIRIAM DAMON,66,19,White American,Maths,M,414
+MITCHELL LEE,95,18,White American,Maths,F,415
+MIVIC HIROSE,45,21,White American,Maths,M,416
+MOHAMMED NURU,65,19,European American,Maths,M,417
+MONICA FIELDS,88,19,European American,Maths,M,418
+MONIQUE MOYER,65,19,Hispanic,Maths,M,419
+MONIQUE ZMUDA,85,18,White American,Maths,F,420
+MORGAN PETITI,75,18,Hispanic,Maths,M,421
+MYO CHANG,82,20,African American,Maths,M,422
+NANCY LEW,82,20,White American,Maths,M,423
+NANCY PARKER,66,21,White American,Maths,M,424
+NATHAN HARDY,85,19,European American,Maths,F,425
+NATHANIEL FORD,75,18,White American,Maths,M,426
+NEIL SWENDSEN,91,20,White American,Maths,M,427
+NELA PONFERRADA,65,19,Hispanic,Maths,M,428
+NELSON ACETO,82,20,White American,Maths,M,429
+NEREE DASTOUS,45,18,European American,Maths,F,430
+NICHOLAS COLANGELO,95,20,European American,Maths,M,431
+NICOL JURATOVAC,88,18,White American,Maths,M,432
+NICOLETTE DIVECCHIO,53,18,White American,Maths,M,433
+NIKOLAS LEMOS,82,18,White American,Maths,M,434
+NOEL MORONEY,66,19,White American,Maths,F,435
+NOREEN AMBROSE,91,20,White American,Maths,M,436
+OLLIE BANKS,45,18,White American,Maths,M,437
+OSCAR CABRERA,53,18,European American,Maths,M,438
+OWEN CLEMENTS,85,19,White American,Maths,M,439
+PABLO SIGUENZA,91,18,White American,Maths,F,440
+PATRIC STEELE,53,18,European American,Maths,M,441
+PATRICIA CARR,88,19,Hispanic,Maths,M,442
+PATRICIA JACKSON,85,18,European American,Maths,M,443
+PATRICIA O'CONNER,45,19,Hispanic,Maths,M,444
+PATRICK GARDNER,53,18,White American,Maths,F,445
+PATRICK MULLANEY,75,20,Hispanic,Maths,M,446
+PAUL CHIGNELL,85,19,African American,Maths,M,447
+PAUL HENDERSON,66,19,White American,Maths,M,448
+PAUL LEE,82,20,White American,Maths,M,449
+PAUL URQUIAGA,85,19,Hispanic,Maths,F,450
+PAULINE MARX,82,20,White American,Maths,M,451
+PERRY LEONG,82,18,European American,Maths,M,452
+PETE FAY JR,95,18,Hispanic,Maths,M,453
+PETER THOSHINSKY,85,19,Hispanic,Maths,M,454
+PHILIP GINSBURG,75,20,White American,Maths,F,455
+PHILIP PERA,91,20,Hispanic,Maths,M,456
+PHILIP STEVENS,95,18,White American,Maths,M,457
+PIERRE FRANCOIS,95,20,European American,Maths,M,458
+PIERRE MARTINEZ,53,18,European American,Maths,M,459
+RAEMONA WILLIAMS,85,18,African American,Maths,F,460
+RAJIV BHATIA,95,20,White American,Maths,M,461
+RANDY LY,65,19,European American,Maths,M,462
+RANDY MANNING,91,20,White American,Maths,M,463
+RASMI CHAN,75,20,Hispanic,Maths,M,464
+RAUL FRANCISCO,45,21,White American,Maths,F,465
+RAY CRAWFORD,53,20,Hispanic,Maths,M,466
+RAYMOND CHAVEZ,88,21,European American,Maths,M,467
+RAYMOND GUZMAN,66,18,White American,Maths,M,468
+RAYMOND KOENIG,53,18,Hispanic,Maths,M,469
+REGINA GOMEZ,82,18,White American,Maths,F,470
+RENEE MARQUARDT,82,18,White American,Maths,M,471
+REX HALE,53,20,Hispanic,Maths,M,472
+RICHARD BUSALACCHI,85,21,African American,Maths,M,473
+RICHARD CORRIEA,45,21,Hispanic,Maths,M,474
+RICHARD CURRIE,91,20,White American,Maths,F,475
+RICHARD ELLIOTT,82,20,White American,Maths,M,476
+RICHARD PARRY,45,19,White American,Maths,M,477
+RICHARD UNTALAN,75,18,White American,Maths,M,478
+RICHARD VAN KOLL,95,18,White American,Maths,M,479
+RICHARD ZERCHER,88,21,White American,Maths,F,480
+RICKY HUI,88,19,White American,Maths,M,481
+ROBERT BONNET,85,18,Hispanic,Maths,M,482
+ROBERT BRYAN,82,20,European American,Maths,M,483
+ROBERT CHIN,66,19,White American,Maths,M,484
+ROBERT COLEMAN,88,18,Hispanic,Maths,F,485
+ROBERT GALLOT,91,20,White American,Maths,M,486
+ROBERT GUILLERMO,95,20,White American,Maths,M,487
+ROBERT KAPROSCH,75,18,White American,Maths,M,488
+ROBERT LOPEZ,75,18,Hispanic,Maths,M,489
+ROBERT MAERZ,53,20,European American,Maths,F,490
+ROBERT MUHAMMAD,88,18,European American,Maths,M,491
+ROBERT POSTEL,82,20,European American,Maths,M,492
+ROBERT SERRANO,88,19,White American,Maths,M,493
+ROBERT SHAW,91,20,White American,Maths,M,494
+ROBERT STYLES,75,18,European American,Maths,F,495
+ROBERT TAI,75,18,European American,Maths,M,496
+ROBERT VELARDE,91,18,Hispanic,Maths,M,497
+ROBERT WINSLOW,85,19,White American,Maths,M,498
+ROLAND PICKENS,88,18,European American,Maths,M,499
+RONALD PRUYN,53,18,White American,Maths,F,500
+ROSE QUINONES,53,20,White American,Maths,M,501
+ROSELYN JEQUINTO,65,18,European American,Maths,M,502
+ROSEMARY LEE,91,18,European American,Maths,M,503
+ROWENA PATEL,91,18,Hispanic,Maths,M,504
+RUBY MARTIN,45,19,Hispanic,Maths,F,505
+RUDOLPH ERLER,66,21,European American,Maths,M,506
+RUDY CASTELLANOS,66,21,White American,Maths,M,507
+RYAN CREAN,53,18,White American,Maths,M,508
+RYAN KENNEDY,65,19,White American,Maths,M,509
+SAHIR PUTRUS,53,18,White American,Maths,F,510
+SAM YUEN,91,18,White American,Maths,M,511
+SAMSON LAI,82,20,European American,Maths,M,512
+SAMUEL NIETO,45,19,White American,Maths,M,513
+SAMUEL ROMERO,65,19,White American,Maths,M,514
+SANDRA HUANG,65,18,White American,Maths,F,515
+SANDRA TONG,53,18,European American,Maths,M,516
+SARAH CARY,82,18,White American,Maths,M,517
+SCOTT SCHOLZEN,88,19,African American,Maths,M,518
+SEAN BONETTI,95,20,White American,Maths,M,519
+SEBASTIAN WONG,64,19,Hispanic,Maths,F,520
+SHANNON SAKOWSKI,82,20,European American,Maths,M,521
+SHARON FERRIGNO,45,19,European American,Maths,M,522
+SHARON MCCOLE WICHER,53,18,White American,Maths,M,523
+SHARON WOO,45,21,Hispanic,Maths,M,524
+SHELLEY MITCHELL,85,19,White American,Maths,F,525
+SIU-KWAN CHOW,91,18,Hispanic,Maths,M,526
+SOFIA MATHEWS,75,20,Hispanic,Maths,M,527
+SONALI BOSE,88,18,White American,Maths,M,528
+STEPHEN TACCHINI,45,19,Hispanic,Maths,M,529
+STEPHEN TITTEL,88,19,White American,Maths,F,530
+STEVEN MANNINA,45,18,White American,Maths,M,531
+STEVEN RITCHIE,65,21,European American,Maths,M,532
+STEVEN WILLIAMS,45,21,European American,Maths,M,533
+STEVEN WOZNIAK,88,21,White American,Maths,M,534
+SURINDERJEET BAJWA,95,20,White American,Maths,F,535
+SUSAN BUCHBINDER,95,20,European American,Maths,M,536
+SUSAN CURRIN,82,18,Hispanic,Maths,M,537
+SUSAN FERNYAK,65,19,European American,Maths,M,538
+SUSAN GARRETT,91,18,Hispanic,Maths,M,539
+SUSAN ILNICKI,65,18,European American,Maths,F,540
+TANGERINE BRIGHAM,66,21,White American,Maths,M,541
+TED YAMASAKI,95,18,European American,Maths,M,542
+TERENCE OSULLIVAN,82,18,African American,Maths,M,543
+TERESA BARRETT,75,20,European American,Maths,M,544
+THERESA DENTONI,82,20,European American,Maths,F,545
+THERESA LEE,85,19,White American,Maths,M,546
+THERESA MUELLER,65,19,White American,Maths,M,547
+THERESE STEWART,88,18,White American,Maths,M,548
+THOMAS ABBOTT,85,19,White American,Maths,M,549
+THOMAS ALDANA,82,20,African American,Maths,F,550
+THOMAS BIBER,82,18,White American,Maths,M,551
+THOMAS BUSBY,91,18,White American,Maths,M,552
+THOMAS CLEARY,85,19,White American,Maths,M,553
+THOMAS CUNNANE,65,21,Hispanic,Maths,M,554
+THOMAS HARVEY,66,19,White American,Maths,F,555
+THOMAS KOHMANN,82,18,White American,Maths,M,556
+THOMAS MURPHY,66,19,European American,Maths,M,557
+THOMAS REY,65,19,Hispanic,Maths,M,558
+THOMAS SHAWYER,91,18,European American,Maths,M,559
+THOMAS SIRAGUSA,95,20,White American,Maths,F,560
+TIM AREJA,66,18,African American,Maths,M,561
+TIMOTHY SINCLAIR,53,20,White American,Maths,M,562
+TIMOTHY SULLIVAN,65,19,White American,Maths,M,563
+TODD RYDSTROM,45,18,European American,Maths,M,564
+TOMAS ARAGON,,21,White American,Maths,F,565
+TONEY CHAPLIN,65,18,White American,Maths,M,566
+TRENT RHORER,66,21,European American,Maths,M,567
+TROY JOLLIFF,53,18,African American,Maths,M,568
+TROY WILLIAMS,95,20,White American,Maths,M,569
+TRYG MCCOY,65,19,Hispanic,Maths,F,570
+TUAMELIE MOALA,45,19,European American,Maths,M,571
+TYRONE PRUITT,82,20,Hispanic,Maths,M,572
+TYRONNE JULIAN,53,18,European American,Maths,M,573
+VALERIE AGARD,85,18,European American,Maths,M,574
+VALERIE INOUYE,75,20,European American,Maths,F,575
+VAN LY,85,21,White American,Maths,M,576
+VENUS AZAR,75,18,White American,Maths,M,577
+VERNONICA JONES,85,19,White American,Maths,M,578
+VICKI CLAYTON,82,18,White American,Maths,M,579
+VICTOR WYRSCH,65,21,White American,Maths,F,580
+VINCENT DAVIS,95,18,African American,Maths,M,581
+VINCENT PAMPANIN,91,20,White American,Maths,M,582
+VIVIAN DAY,45,21,Hispanic,Maths,M,583
+WAYNE SNODGRASS,95,18,Hispanic,Maths,M,584
+WENDY STILL,91,18,European American,Maths,F,585
+WHITNEY YEE,53,20,White American,Maths,M,586
+WILLIAM MCFARLAND,85,19,White American,Maths,M,587
+WILLIAM MCFARLAND,45,18,Hispanic,Maths,M,588
+WILLIAM MULKEEN,88,19,European American,Maths,M,589
+WILLIAM RADER,82,20,Hispanic,Maths,F,590
+WILLIAM ROUALDES,65,19,White American,Maths,M,591
+WILLIAM SCOTT,88,19,Hispanic,Maths,M,592
+WILLIAM SIFFERMANN,91,20,Hispanic,Maths,M,593
+WING CHAN,88,19,European American,Maths,M,594
+WING NG,45,19,White American,Maths,F,595
+YIFANG QIAN,75,18,White American,Maths,M,596
+ZACHARY PUMPHREY,53,20,White American,Maths,M,597
+ZEBA IMAN NAZEERI-SIMMONS,75,20,Hispanic,Maths,M,598
+ZHI JIAR ZHUANG,88,19,Hispanic,Maths,M,599
