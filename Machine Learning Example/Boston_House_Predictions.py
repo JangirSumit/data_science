@@ -8,7 +8,7 @@ import seaborn as sns
 
 # 1. Data collection
 
-boston_data = pd.read_csv("BostonHousing.csv")
+boston_data = pd.read_csv("./BostonHousing.csv")
 boston_data.head()
 
 
