@@ -24,3 +24,25 @@ df_prisoners.at[35, "STATE/UT"] = "totals"
 df_prisoners.at[35, "YEAR"] = ""
 
 print(df_prisoners.head())
+
+
+# 3.Plotting:
+# a.Make a bar plot with each state name on the x -axis and their total benefitted inmates astheir bar heights. 
+# Which state has the maximum number of beneficiaries?
+x = df_prisoners["STATE/UT"]
+y = df_prisoners["total_benefitted"]
+
+plt.bar(x,y)
+plt.setp(plt.gca().get_xticklabels(), rotation=90,horizontalalignment='right') 
+plt.title("STATE/UT vs Total_inmates_benefitted")
+plt.xlabel("STATE/UT")
+plt.ylabel("Total_inmates_benefitted")
+plt.show()
+
+# b.Make a pie chart that depicts the ratio among different modes of benefits.
+labels = df_prisoners["STATE/UT"]
+values = df_prisoners["total_benefitted"]
+
+plt.pie(values, labels = labels, autopct='%1.1f%%', shadow=True)
+plt.title("STATE/UT vs Total_inmates_benefitted")
+plt.show()
