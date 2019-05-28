@@ -45,3 +45,30 @@ plt.xlabel("Manufactureres")
 plt.ylabel("Count")
 plt.title("number of cereals manufactured by Manufactures")
 plt.show()
+
+
+# 3. Extract the rating as your target variable ‘y’ and all numerical parameters as your predictors ‘x’. 
+# Separate 25% of your data as test set.
+
+from sklearn.linear_model import LinearRegression
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import accuracy_score
+
+X = df_cereal.iloc[:,3:15]
+Y = df_cereal["rating"]
+
+x_train, x_test, y_train, y_test = train_test_split(X, Y, test_size = 0.25, random_state=10)
+
+
+
+
+# 4. Fit a linear regression module and measure the mean squared error on test dataset.
+# [ Hint: Explore linear models and metrics section of sklearn documentation]
+
+liner_model = LinearRegression()
+liner_model.fit(x_train, y_train)
+
+predicted_ratings = liner_model.predict(x_test)
+
+plt.scatter(np.array(predicted_ratings), np.array(y_test))
+plt.show()
