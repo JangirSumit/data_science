@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Data Collection
-data = pd.read_csv("26th May Assignments\case study 3\loan_borowwer_data.csv")
+data = pd.read_csv("loan_borowwer_data.csv")
 print(data.head())
 
 # Data Wrangling
