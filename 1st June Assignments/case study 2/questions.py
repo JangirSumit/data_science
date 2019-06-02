@@ -1,3 +1,5 @@
+# http://www.thejavageek.com/2018/04/30/linear-discriminant-analysis-using-python/
+
 from sklearn.discriminant_analysis import LinearDiscriminantAnalysis as LDA
 import pandas as pd
 import matplotlib.pyplot as plt

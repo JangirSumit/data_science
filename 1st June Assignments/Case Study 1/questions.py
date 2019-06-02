@@ -1,4 +1,5 @@
 # https://medium.com/@parthvadhadiya424/digit-recognition-using-sk-learn-ea729fec6e3d
+# http://www.thejavageek.com/2018/04/30/principal-component-analysis-using-python/
 
 from sklearn.decomposition import PCA
 import pandas as pd
