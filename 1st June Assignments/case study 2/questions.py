@@ -25,8 +25,12 @@ train_x, test_x, train_y, test_y = train_test_split(
 # 2.Using scikit learn perform a LDA on the dataset. Find out the number of components
 # in the projected subspace.
 # [Hint:Refer to discriminant analysis moduleof scikit learn]
+
+# T0 Get 95% of Accuracy n_components should be 5
 model_lda = LDA(n_components=5)
 model_lda.fit(train_x, train_y)
+
+print(model_lda.explained_variance_ratio_)
 
 train_x = model_lda.transform(train_x)
 test_x = model_lda.transform(test_x)

@@ -39,13 +39,16 @@ print("\n\n")
 # can explain 95% of the variance in the original dataset. Find out the number of
 # components in the projected subspace.
 # [Hint:Refer to decomposition module of scikit learn]
-model_pca = PCA(n_components=2)
+
+# To get 95% of variance n_components should be 10
+model_pca = PCA(n_components=10)
 
 model_pca.fit(images)
 
 # transform the data
-transformed_data = model_pca.transform(images)
-transformed_data
+model_pca.fit(train_x, train_y)
+train_x = model_pca.transform(train_x)
+test_x = model_pca.transform(test_x)
 
 print("Variance Ratio\n")
 print(model_pca.explained_variance_ratio_)
@@ -56,20 +59,20 @@ print("\n\n")
 # Compare it with the previous model andcomment on the accuracy.
 # [Hint: Project both the train and test samples to the new subspace]'
 log_model_1 = LogisticRegression()
-log_model_1.fit(transformed_data, labels)
+log_model_1.fit(train_x, train_y)
 
-predicted_values_1 = log_model_1.predict(transformed_data)
+predicted_values_1 = log_model_1.predict(test_x)
 
 print("Variance Ratio\n")
-print(metrics.accuracy_score(predicted_values_1, labels))
+metrics.accuracy_score(predicted_values_1, test_y)
 print("\n\n")
 
 
 # 5.Compute the confusion matrix and count the number of instances that has gone wrong.
 # For each of the wrong sample,plot the digit along with predicted and original label.
-conf_metrics = metrics.confusion_matrix(predicted_values_1, labels)
+conf_metrics = metrics.confusion_matrix(predicted_values_1, test_y)
 classification_report = metrics.classification_report(
-    predicted_values_1, labels)
+    predicted_values_1, test_y)
 
 print("Confusion Metrics\n")
 print(conf_metrics)
