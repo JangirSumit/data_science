@@ -27,3 +27,7 @@ new_df.index = df_cancer.index # Setting original Index
 new_df.columns = ["PC1", "PC2"] # Changing Column names
 new_df["diagnosis"] = data["diagnosis"] # Adding Result column
 new_df.head()
+
+
+#Variance Ratio
+print(model_pca.explained_variance_ratio_)
