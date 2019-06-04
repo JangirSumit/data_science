@@ -49,4 +49,20 @@ print(metrics.accuracy_score(predicted_values_a, test_y_a))
 
 print("\nClassification Score\n")
 print(metrics.classification_report(predicted_values_a, test_y_a))
+
+
 # Gyro as Independent variables
+X_G = data.iloc[:, 8:]
+Y_G = data["activity"]
+
+train_x_g, test_x_g, train_y_g, test_y_g = train_test_split(
+    X_G, Y_G, random_state=10, test_size=0.30)
+
+g_model.fit(train_x_g, train_y_g)
+predicted_values_g = g_model.predict(test_x_g)
+
+print("\nAccuracy Score\n")
+print(metrics.accuracy_score(predicted_values_g, test_y_g))
+
+print("\nClassification Score\n")
+print(metrics.classification_report(predicted_values_g, test_y_g))
