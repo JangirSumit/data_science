@@ -1,13 +1,13 @@
 from sklearn.preprocessing import StandardScaler
 import pandas as pd
-from sklearn.model_selection import train_test_split
+from sklearn.model_selection import train_test_split, ShuffleSplit, GridSearchCV
 from sklearn import svm
 from sklearn import metrics
 from sklearn.preprocessing import LabelEncoder
 
 # 1.Load the data from “college.csv” that has attributes collected about private and public colleges
 # for a particular year. We will try to predict the private/public status of the college from other attributes.
-data = pd.read_csv("College.csv")
+data = pd.read_csv("2nd June Assignments\case study 3\College.csv")
 data.head()
 
 labelencoder = LabelEncoder()
@@ -55,23 +55,24 @@ metrics.accuracy_score(predicted_values, test_y)
 # [Hint: Refer to model_selection module of Scikit learn]
 # https://chrisalbon.com/machine_learning/model_evaluation/cross_validation_parameter_tuning_grid_search/
 
-from sklearn.model_selection import GridSearchCV
 
 parameter_candidates = [
-  {'C': [1, 10, 100, 1000], 'kernel': ['linear']},
-  {'C': [1, 10, 100, 1000], 'gamma': [0.001, 0.0001], 'kernel': ['rbf']},
+    {'C': [1, 10, 100, 1000], 'kernel': ['linear']},
+    {'C': [1, 10, 100, 1000], 'gamma': [0.001, 0.0001], 'kernel': ['rbf']},
 ]
 
 # Create a classifier object with the classifier and parameter candidates
-clf = GridSearchCV(estimator=svm.SVC(), param_grid=parameter_candidates, n_jobs=-1)
+cv = ShuffleSplit()
+clf = GridSearchCV(estimator=svm.SVC(max_iter=1000),
+                   param_grid=parameter_candidates, n_jobs=-1, cv=cv)
 
 # Train the classifier on data1's feature and target data
-clf.fit(train_x, train_y)   
+clf.fit(train_x, train_y)
 
 # View the accuracy score
-print('Best score for data1:', clf.best_score_) 
+print('Best score for data1:', clf.best_score_)
 
 # View the best parameters for the model found using grid search
-print('Best C:',clf.best_estimator_.C) 
-print('Best Kernel:',clf.best_estimator_.kernel)
-print('Best Gamma:',clf.best_estimator_.gamma)
+print('Best C:', clf.best_estimator_.C)
+print('Best Kernel:', clf.best_estimator_.kernel)
+print('Best Gamma:', clf.best_estimator_.gamma)
