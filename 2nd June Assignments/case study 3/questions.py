@@ -57,6 +57,7 @@ metrics.accuracy_score(predicted_values, test_y)
 
 
 parameter_candidates = [
+    {'C': [1, 10, 100, 1000], 'kernel': ['poly']},
     {'C': [1, 10, 100, 1000], 'kernel': ['linear']},
     {'C': [1, 10, 100, 1000], 'gamma': [0.001, 0.0001], 'kernel': ['rbf']},
 ]
