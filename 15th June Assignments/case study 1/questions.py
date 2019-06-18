@@ -1,12 +1,14 @@
-https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-recommendation-engine-python/
+# https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-recommendation-engine-python/
 
 import numpy as np
 import pandas as pd
 from math import sqrt
 from sklearn.metrics import mean_squared_error
-from sklearn.metrics.pairwise import pairwise_distances 
+from sklearn.metrics.pairwise import pairwise_distances
 
-#root mean square error
+# root mean square error
+
+
 def rmse(pred, test):
     pred = pred[test.nonzero()].flatten()
     test = test[test.nonzero()].flatten()
@@ -16,12 +18,15 @@ def rmse(pred, test):
 def predict(ratings, similarity, type='user'):
     if type == 'user':
         mean_user_rating = ratings.mean(axis=1)
-        #We use np.newaxis so that mean_user_rating has same format as ratings
+        # We use np.newaxis so that mean_user_rating has same format as ratings
         ratings_diff = (ratings - mean_user_rating[:, np.newaxis])
-        pred = mean_user_rating[:, np.newaxis] + similarity.dot(ratings_diff) / np.array([np.abs(similarity).sum(axis=1)]).T
+        pred = mean_user_rating[:, np.newaxis] + similarity.dot(
+            ratings_diff) / np.array([np.abs(similarity).sum(axis=1)]).T
     elif type == 'book':
-        pred = ratings.dot(similarity) / np.array([np.abs(similarity).sum(axis=1)])
+        pred = ratings.dot(similarity) / \
+            np.array([np.abs(similarity).sum(axis=1)])
     return pred
+
 
 # data is sooo huge so that taking only 10000 rows
 df_ratings = pd.read_csv("BX-Book-Ratings.csv", encoding="latin1")
