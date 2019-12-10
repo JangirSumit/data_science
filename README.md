@@ -1,2 +1,3 @@
 # data_science
-Data Science
+All Edureka Solutions of "Python for Data Science Certification" with problems.
+
